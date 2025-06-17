@@ -71,7 +71,12 @@ class Chunks(LanceModel):
     metadata: ChunkMetadata
 
 
-table = db.create_table("docling", schema=Chunks, mode="overwrite")
+# Try to open the table if it already exists
+try:
+    table = db.open_table("docling")
+except Exception:
+    # Table doesn't exist yet, so create it
+    table = db.create_table("docling", schema=Chunks, mode="create")
 
 # --------------------------------------------------------------
 # Prepare the chunks for the table
