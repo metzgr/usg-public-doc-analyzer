@@ -1,11 +1,15 @@
 import lancedb
+from dotenv import load_dotenv
+from utils.db import connect_lancedb
+
+load_dotenv()
 
 # --------------------------------------------------------------
 # Connect to the database
 # --------------------------------------------------------------
 
 uri = "data/lancedb"
-db = lancedb.connect(uri)
+db = connect_lancedb(default_uri=uri)
 
 
 # --------------------------------------------------------------

@@ -8,6 +8,7 @@ from lancedb.embeddings import get_registry
 from lancedb.pydantic import LanceModel, Vector
 from openai import OpenAI
 from utils.tokenizer import OpenAITokenizerWrapper
+from utils.db import connect_lancedb
 
 load_dotenv()
 
@@ -45,7 +46,7 @@ chunks = list(chunk_iter)
 # --------------------------------------------------------------
 
 # Create a LanceDB database
-db = lancedb.connect("data/lancedb")
+db = connect_lancedb()
 
 
 # Get the OpenAI embedding function

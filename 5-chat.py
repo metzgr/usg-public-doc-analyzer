@@ -1,5 +1,6 @@
 import streamlit as st
 import lancedb
+from utils.db import connect_lancedb
 from openai import OpenAI
 from dotenv import load_dotenv
 
@@ -18,7 +19,7 @@ def init_db():
     Returns:
         LanceDB table object
     """
-    db = lancedb.connect("data/lancedb")
+    db = connect_lancedb()
     return db.open_table("docling")
 
 

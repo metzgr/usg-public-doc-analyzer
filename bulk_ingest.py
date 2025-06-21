@@ -3,6 +3,7 @@ import os
 from typing import List
 
 import lancedb
+from utils.db import connect_lancedb
 from docling.document_converter import DocumentConverter
 from docling.chunking import HybridChunker
 from lancedb.embeddings import get_registry
@@ -37,7 +38,7 @@ def main():
 
     os.makedirs(args.db_path, exist_ok=True)
 
-    db = lancedb.connect(args.db_path)
+    db = connect_lancedb(default_uri=args.db_path)
 
     if args.table in db.table_names():
         table = db.open_table(args.table)
