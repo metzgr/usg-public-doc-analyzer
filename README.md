@@ -32,6 +32,10 @@ pip install -r requirements.txt
 
 ```bash
 OPENAI_API_KEY=your_api_key_here
+# Optional: connect to a remote LanceDB instance
+LANCEDB_URI=db://doc-analyzer-94a7s7
+LANCEDB_API_KEY=your_lancedb_api_key
+LANCEDB_REGION=us-east-1
 ```
 
 ### Running the Example
@@ -43,6 +47,9 @@ Execute the files in order to build and query the document database:
 3. Create embeddings and store in LanceDB: `python 3-embedding.py`
 4. Test basic search functionality: `python 4-search.py`
 5. Launch the Streamlit chat interface: `streamlit run 5-chat.py`
+
+If `LANCEDB_URI` is set to a remote database (e.g. `db://doc-analyzer-94a7s7`),
+the scripts above will use that instead of the local `data/lancedb` directory.
 
 Then open your browser and navigate to `http://localhost:8501` to interact with the document Q&A interface.
 
