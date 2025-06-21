@@ -2,6 +2,8 @@
 
 This repository demonstrates how to build a local document analysis app using [Docling](https://github.com/DS4SD/docling), LanceDB and OpenAI models.  You'll convert documents, chunk them into searchable pieces, create vector embeddings and explore the results through a Streamlit interface.
 
+This project started with repurposing an open-source solution from [Dave Ebbelaar's AI Cookbook](https://github.com/daveebbelaar/ai-cookbook/tree/main/knowledge/docling).
+
 The examples are organized so you can run them step by step, just like you would in a classroom lab exercise.
 
 ## How It Works
