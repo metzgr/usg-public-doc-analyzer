@@ -41,6 +41,9 @@ class OpenAITokenizerWrapper(PreTrainedTokenizerBase):
     def vocab_size(self) -> int:
         return self._vocab_size
 
+    def __len__(self):
+        return self.vocab_size
+
     def save_vocabulary(self, *args) -> Tuple[str]:
         return ()
 

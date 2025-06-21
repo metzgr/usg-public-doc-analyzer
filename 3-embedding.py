@@ -1,120 +1,108 @@
+import os
+import json
 from typing import List
-
-import lancedb
-from docling.chunking import HybridChunker
-from docling.document_converter import DocumentConverter
 from dotenv import load_dotenv
 from lancedb.embeddings import get_registry
 from lancedb.pydantic import LanceModel, Vector
-from openai import OpenAI
-from utils.tokenizer import OpenAITokenizerWrapper
 from utils.db import connect_lancedb
 
 load_dotenv()
 
-# Initialize OpenAI client (make sure you have OPENAI_API_KEY in your environment variables)
-client = OpenAI()
+# --- Configuration ---
+INPUT_DIR = "data/chunked"
+TABLE_NAME = "docling"
 
+# --- LanceDB Schema Definition ---
 
-tokenizer = OpenAITokenizerWrapper()  # Load our custom tokenizer for OpenAI
-MAX_TOKENS = 8191  # text-embedding-3-large's maximum context length
-
-
-# --------------------------------------------------------------
-# Extract the data
-# --------------------------------------------------------------
-
-converter = DocumentConverter()
-result = converter.convert("https://arxiv.org/pdf/2408.09869")
-
-
-# --------------------------------------------------------------
-# Apply hybrid chunking
-# --------------------------------------------------------------
-
-chunker = HybridChunker(
-    tokenizer=tokenizer,
-    max_tokens=MAX_TOKENS,
-    merge_peers=True,
-)
-
-chunk_iter = chunker.chunk(dl_doc=result.document)
-chunks = list(chunk_iter)
-
-# --------------------------------------------------------------
-# Create a LanceDB database and table
-# --------------------------------------------------------------
-
-# Create a LanceDB database
-db = connect_lancedb()
-
-
-# Get the OpenAI embedding function
+# Get the OpenAI embedding function from the LanceDB registry
 func = get_registry().get("openai").create(name="text-embedding-3-large")
 
-
-# Define a simplified metadata schema
 class ChunkMetadata(LanceModel):
-    """
-    You must order the fields in alphabetical order.
-    This is a requirement of the Pydantic implementation.
-    """
-
+    """Metadata schema for each chunk. Fields must be in alphabetical order."""
     filename: str | None
     page_numbers: List[int] | None
     title: str | None
 
-
-# Define the main Schema
 class Chunks(LanceModel):
+    """Main table schema with text, vector, and metadata."""
     text: str = func.SourceField()
-    vector: Vector(func.ndims()) = func.VectorField()  # type: ignore
+    vector: Vector(func.ndims()) = func.VectorField() # type: ignore
     metadata: ChunkMetadata
 
+# --- Main Execution ---
+def main():
+    """
+    Loads chunked JSON files, generates embeddings, and stores them in LanceDB.
+    """
+    # Connect to the LanceDB database
+    db = connect_lancedb()
 
-# Try to open the table if it already exists
-try:
-    table = db.open_table("docling")
-except Exception:
-    # Table doesn't exist yet, so create it
-    table = db.create_table("docling", schema=Chunks, mode="create")
+    # Create or open the LanceDB table
+    try:
+        table = db.open_table(TABLE_NAME)
+        print(f"Opened existing table: '{TABLE_NAME}'")
+    except Exception:
+        print(f"Table '{TABLE_NAME}' not found. Creating a new one.")
+        table = db.create_table(TABLE_NAME, schema=Chunks, mode="create")
 
-# --------------------------------------------------------------
-# Prepare the chunks for the table
-# --------------------------------------------------------------
+    # Find all JSON files in the input directory
+    try:
+        json_files = [f for f in os.listdir(INPUT_DIR) if f.endswith(".json")]
+        if not json_files:
+            print(f"No JSON files found in {INPUT_DIR}. Please run the chunking script first.")
+            return
+    except FileNotFoundError:
+        print(f"Error: Input directory not found at '{INPUT_DIR}'. Please run the chunking script first.")
+        return
 
-# Create table with processed chunks
-processed_chunks = [
-    {
-        "text": chunk.text,
-        "metadata": {
-            "filename": chunk.meta.origin.filename,
-            "page_numbers": [
-                page_no
-                for page_no in sorted(
-                    set(
-                        prov.page_no
-                        for item in chunk.meta.doc_items
-                        for prov in item.prov
-                    )
-                )
-            ]
-            or None,
-            "title": chunk.meta.headings[0] if chunk.meta.headings else None,
-        },
-    }
-    for chunk in chunks
-]
+    print(f"Found {len(json_files)} chunked documents to process...")
 
-# --------------------------------------------------------------
-# Add the chunks to the table (automatically embeds the text)
-# --------------------------------------------------------------
+    all_processed_chunks = []
+    for json_filename in json_files:
+        input_path = os.path.join(INPUT_DIR, json_filename)
+        print(f"--> Loading chunks from: {input_path}")
 
-table.add(processed_chunks)
+        with open(input_path, "r", encoding="utf-8") as f:
+            chunk_list = json.load(f)
 
-# --------------------------------------------------------------
-# Load the table
-# --------------------------------------------------------------
+        # Prepare each chunk to match the LanceDB schema
+        for chunk_dict in chunk_list:
+            meta = chunk_dict.get("meta", {})
+            origin = meta.get("origin", {})
+            headings = meta.get("headings", [])
+            doc_items = meta.get("doc_items", [])
 
-table.to_pandas()
-table.count_rows()
+            # Safely extract page numbers
+            page_numbers = []
+            if doc_items:
+                page_nos_set = set()
+                for item in doc_items:
+                    for prov in item.get("prov", []):
+                        if 'page_no' in prov and prov['page_no'] is not None:
+                            page_nos_set.add(prov['page_no'])
+                page_numbers = sorted(list(page_nos_set))
+
+            processed_chunk = {
+                "text": chunk_dict.get("text", ""),
+                "metadata": {
+                    "filename": origin.get("filename"),
+                    "page_numbers": page_numbers or None,
+                    "title": headings[0] if headings else None,
+                },
+            }
+            all_processed_chunks.append(processed_chunk)
+
+    if not all_processed_chunks:
+        print("No chunks were processed. Exiting.")
+        return
+
+    print(f"\nAdding {len(all_processed_chunks)} chunks to the '{TABLE_NAME}' table...")
+    # This step automatically handles embedding generation
+    table.add(all_processed_chunks)
+
+    print("\nEmbedding and storage process complete.")
+    print(f"Total rows in table: {table.count_rows()}")
+
+if __name__ == "__main__":
+    main()
+

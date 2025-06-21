@@ -2,12 +2,12 @@ import os
 import lancedb
 
 def connect_lancedb(default_uri: str = "data/lancedb"):
-    """Connect to LanceDB using environment variables if available."""
-    uri = os.getenv("LANCEDB_URI", default_uri)
-    api_key = os.getenv("LANCEDB_API_KEY")
-    region = os.getenv("LANCEDB_REGION")
+    """
+    Connect to a local LanceDB database.
 
-    if uri.startswith("db://") and api_key:
-        return lancedb.connect(uri=uri, api_key=api_key, region=region)
-    return lancedb.connect(uri)
+    This function is hardcoded to use a local path to ensure the application
+    runs in a local-only mode, preventing connection errors to remote databases.
+    """
+    # The default_uri points to a local directory, e.g., 'data/lancedb'
+    return lancedb.connect(default_uri)
 

@@ -1,0 +1,2899 @@
+[
+  {
+    "text": "USDA Could Enhance Its Management and Oversight of State Administrative Expense Funds\nHighlights of GAO-25-106977, a report to congressional requesters",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/3",
+          "parent": {
+            "cref": "#/texts/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/4",
+          "parent": {
+            "cref": "#/texts/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "CHILD NUTRITION PROGRAMS"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "USDA's child nutrition programs serve billion of meals annually to help ensure that children in low-income families have access to nutritious foods at schools and other settings. SAE funds are states' primary source of federal funds to support administrative costs for five child nutrition programs. Congress appropriated about $492 million to USDA for SAE in fiscal year 2024. States must contribute a minimum amount to SAE funding each year, which totals to about $9 million.\nGAO was asked to review issues related to the use of SAE funds for child nutrition programs. This report examines (1) recent trends in SAE funds states received and how they used the funds, (2) challenges selected states faced in using the funds and USDA's efforts to address the challenges, and (3) the extent to which USDA monitors states' use of the funds to achieve agency goals.\nGAO analyzed data on SAE funding amounts from fiscal years 2019 through 2024. GAO interviewed officials from a non-generalizable sample of four states and conducted site visits to two of them. States were selected for variation in geographic location and SAE funding amounts, among other things. GAO also interviewed USDA officials and four nonprofit organizations that work on child nutrition issues.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/6",
+          "parent": {
+            "cref": "#/texts/5"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/7",
+          "parent": {
+            "cref": "#/texts/5"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/8",
+          "parent": {
+            "cref": "#/texts/5"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Why GAO Did This Study"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "GAO is making four recommendations to USDA, including to identify changes that would help improve SAE allocations and processes, and to update its guidance on SAE requirements. USDA generally concurred with the recommendations.\nView GAO-25-106977. For more information, contact Kathryn A. Larin at larink@gao.gov.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/10",
+          "parent": {
+            "cref": "#/texts/9"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/11",
+          "parent": {
+            "cref": "#/texts/9"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "What GAO Recommends"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Each year, in accordance with a funding formula established in federal law, the U.S. Department of Agriculture (USDA) allocates State Administrative Expense (SAE) funds to states to support their administration of child nutrition programs, including the school meal programs. States primarily spend SAE funds on salaries of staff administering these programs and other expenses. SAE funding was generally stable during the period GAO analyzed, before increasing in fiscal year 2024. That increase was due to schools serving more meals and receiving a higher rate for meal reimbursements in fiscal year 2022, according to USDA. The number and rate of reimbursement for meals served in certain child nutrition programs from 2 years earlier are key inputs in the funding formula.\nSource: GAO analysis of U.S. Department of Agriculture (USDA) data. GAO-25-106977\nAll four selected states identified challenges related to the SAE funding formula and managing spending restrictions, among others. Officials from all selected states said the SAE funding formula does not fully account for factors that may increase administrative costs, such as state demographics. For example, states with rural districts may need to spend more on travel and logistics to conduct required oversight. States also face challenges effectively spending SAE funds due to uncertainty regarding the total amount they will receive over the year and the short window to spend additional funds, according to officials from all selected states and three USDA regional offices. USDA has taken some steps to give states more flexibility and resources but has not fully addressed several of the identified challenges. By identifying changes that would help improve SAE allocations and processes, including regulatory or statutory options, USDA could better assist states in using SAE funds to administer child nutrition programs.\nUSDA monitors states' use of SAE funds and compliance with grant requirements, but its oversight has gaps. For example, its main SAE instruction manual was last updated in 1988 and includes references to outdated policies and procedures. USDA officials said they have not updated the guidance because of several competing priorities, such as implementing a new federal program during the pandemic. Without updated SAE guidance, USDA may miss opportunities to assist states and ensure compliance with grant requirements.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/16",
+          "parent": {
+            "cref": "#/texts/15"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/17",
+          "parent": {
+            "cref": "#/texts/15"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/18",
+          "parent": {
+            "cref": "#/texts/15"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/19",
+          "parent": {
+            "cref": "#/texts/15"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "What GAO Found"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": ",  = Background. , 1 = 5. ,  = Administrative Funding Has Generally Been Stable, and States Use These Funds to Pay for Staff and Other Expenses. , 1 = 9. ,  = FNS Has Not Fully Considered Options to Address States' Challenges and Improve the SAE Funding Process. , 1 = 17. ,  = FNS Monitors States' Use of SAE Funds but States Have Not Fully Addressed Some Compliance Findings and Guidance Remains Outdated. , 1 = 24. ,  = Conclusions. , 1 = 30. ,  = Recommendations. , 1 = 31. ,  = Agency Comments. , 1 = 31. Appendix I,  = Funding Trends in SAE Grants by State. Appendix I, 1 = 33. Appendix II,  = Summary of Selected Compliance Review Reports from Fiscal Years 2019 Through 2023. Appendix II, 1 = 36. Appendix III,  = GAO Contact and Staff Acknowledgments. Appendix III, 1 = 38. Tables,  = Table 1: Actions FNS Has Taken to Address Challenges Identified by Selected States, a Prior Study, and Stakeholders Related to Using SAE Funds Table 2: Ratio of Initial SAE Allocations to State Funding. Tables, 1 = 22. ,  = Requirements by State. , 1 = 33. ,  = Table 3: Summary of Selected FNS Fiscal Year 2023 Management Evaluation Reports, as of November 2024. , 1 = 36. ,  = Table 4: Summary of Selected FNS Financial Management Review Reports, as of September 2024. , 1 = 37. Figures,  = . Figures, 1 = . ,  = Figure 1: Key Components of the SAE Grant Cycle. , 1 = 8. ,  = Figure 2: Total Initial SAE Allocation Amounts from FNS, Fiscal Years 2019-2024. , 1 = 10\n12\n14\n33\nFigure 4: Planned SAE Expenditures by Budget Category from 41 SAE Plans, Fiscal Year 2023, 12 = 14. Figure 5: Average Initial SAE Allocation Amounts by State, Fiscal Years 2019-2024, 12 = 33",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/0",
+          "parent": {
+            "cref": "#/texts/20"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "table",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/21",
+          "parent": {
+            "cref": "#/texts/20"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/22",
+          "parent": {
+            "cref": "#/texts/20"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/23",
+          "parent": {
+            "cref": "#/texts/20"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/tables/1",
+          "parent": {
+            "cref": "#/texts/20"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "table",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Contents"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "COVID-19\nCoronavirus disease 2019\nFMR\nfinancial management reviews\nFNS\nFood and Nutrition Service\nFTE\nfull-time equivalent\nIT\ninformation technology\nME\nmanagement evaluations\nnTIG\nNon-Competitive Technology Innovation Grant State Administrative Expense\nSAE\nSummer EBT\nSummer Electronic Benefit Transfer Program for Children\nUSDA\nU.S. Department of Agriculture\nThis is a work of the U.S. government and is not subject to copyright protection in the United States. The published product may be reproduced and distributed in its entirety without further permission from GAO. However, because this work may contain copyrighted images or other material, permission from the copyright holder may be necessary if you wish to reproduce this material separately.\nLetter\nApril 29, 2025\nThe Honorable Tim Walberg Chairman The Honorable Robert C. 'Bobby' Scott Ranking Member Committee on Education and Workforce House of Representatives\nThe Honorable Virginia Foxx House of Representatives\nIn 2024, the U.S. Department of Agriculture (USDA) reported that 17.9 percent of households (6.5 million) with children under age 18 were food insecure at some time during 2023, which means that they faced difficulty at times providing enough food for all household members. 1  USDA's eight child nutrition programs help ensure that children in low-income families do not go hungry and have access to nutritious foods at schools and in other settings.\nThe Child Nutrition Act of 1966, as amended, authorizes USDA's Food and Nutrition Service (FNS) to allocate State Administrative Expense (SAE) funds to state agencies that administer the following five child nutrition programs: (1) National School Lunch Program, (2) Special Milk Program, (3) School Breakfast Program, (4) Child and Adult Care Food Program, and (5) Food Distribution Program, also known as the USDA Foods in Schools program. 2  The largest three programs (the National School Lunch and School Breakfast Programs and Child and Adult Care Food Program) served nearly 9 billion meals in fiscal year 2023, supported by more than $26 billion in federal spending. 3\n1 Matthew P. Rabbitt, Madeline Reed-Jones, Laura J. Hales, and Michael Burke, 'Household Food Security in the United States in 2023.' Economic Research Report No. 337, U.S. Department of Agriculture. (Washington, D.C.: September 2024).\n2 See 42 U.S.C. \u00a7 1776(a), 7 C.F.R. \u00a7 235.1. For the Child and Adult Care Food Program, SAE funds support the administration of both the child and adult care components. According to FNS, the Food Distribution Program is also referred to as USDA Foods in Schools.\n3 These figures exclude the Special Milk Program and the USDA Foods in Schools program.\nCongress annually appropriates SAE funds to USDA, and FNS allocates most of these funds to more than 80 state agencies in 54 states and territories. 4  In fiscal year 2024, Congress appropriated about $492 million to USDA for allocation to state agencies. Federal law also requires states to contribute funding for the administration of these child nutrition programs. 5  FNS refers to this requirement as the state funding requirement.\nYou asked us to review issues related to the use of SAE funds to administer child nutrition programs. This report examines (1) trends in the amount of SAE funds that USDA made available to states in recent years and how states used the funds, (2) challenges selected states faced in using SAE funds, and the assistance USDA has provided to address these challenges, and (3) the extent to which USDA monitors states' use of SAE funds to achieve agency goals.\nFor all objectives, we reviewed relevant federal laws, regulations, and agency documents including guidance, internal memoranda, and reports related to SAE policies and procedures. We interviewed FNS officials, including from all seven FNS regional offices. We also interviewed state agency child nutrition program officials from a non-generalizable sample of four states: California, Oklahoma, Virginia, and Wyoming. We selected these states because they provided variation in federal and state funding amounts for SAE, uses of SAE funds including for professional development activities, and the number of agencies and full-time equivalents that administer the child nutrition programs in each state. We also selected states in different FNS regions for geographic diversity. To obtain perspectives beyond our selected states, we also interviewed representatives from four nonprofit organizations that work on child nutrition issues and that could provide a range of perspectives on those issues. 6\n4 States may change which state agencies administer their child nutrition programs; therefore, the total number of state agencies that receive SAE funds may vary each year. For example, FNS allocated SAE funds to 83 state agencies in fiscal year 2024 and 84 state agencies in fiscal year 2023.\n5 42 U.S.C. \u00a7 1776(f). The state funding requirement applies to the state as a whole and includes all the state agencies administering child nutrition programs. According to FNS, SAE funds should supplement, not supplant, state funding resources.\n6 Specifically, we interviewed representatives from the (1) American Commodity Distribution Association, (2) Child and Adult Care Food Program National Professional Association, (3) Food Research &amp; Action Center, and (4) School Nutrition Association.\nTo examine recent trends in SAE funding and states' use of these funds for our first objective, we analyzed FNS data on amounts provided to states and state funding requirement contributions, from fiscal years 2019 through 2024. 7  Additionally, we analyzed state agencies' planned expenditures and activities from the 41 SAE plans FNS approved in fiscal year 2023, the most recently approved plans available at the time of our review. 8  We determined these data were sufficiently reliable for the purposes of describing general trends in SAE funding and uses by reviewing related documentation, interviewing knowledgeable FNS officials, and performing electronic data testing. We conducted site visits in two of our selected states (California and Oklahoma), where we observed in-person SAE-funded training for local nutrition personnel to obtain illustrative examples of states' use of SAE funds.\nFor our second objective, we interviewed officials in our selected states about the challenges they faced using SAE funds to conduct required administrative activities. We also obtained their views on FNS guidance on SAE grant processes and requirements, among other topics. We compared the challenges our selected states identified against those identified in a 2020 FNS study commissioned to examine the\n7 As of fiscal year 2024, FNS allocates SAE funds to state agencies in the 50 states, the District of Columbia, Guam, Puerto Rico, and the U.S. Virgin Islands. American Samoa and Northern Mariana Islands do not receive SAE funds and are therefore excluded from our analysis. In addition, because only states as defined under statute are eligible to receive SAE funds, and because tribal governments are not included in that definition, they are not eligible to receive funds. For reporting purposes, we use the term 'states' to refer to states, the District of Columbia, and territories. We also analyzed the most recent FNS data on carryovers and transfers of SAE funds by state agencies, from fiscal years 2019 through 2023. We also included available FNS information on fiscal year 2025 SAE funding amounts for additional context.\n8 While FNS provided us a copy of each state agency's most recently approved SAE plan, over a third of these 84 SAE plans had been approved by FNS more than 3 years ago. To ensure our analysis accurately reflected each state agency's most current SAE activities, we analyzed the SAE plans that were approved by FNS during fiscal year 2023. FNS's review of SAE plans submitted for approval in fiscal year 2024 was ongoing at the time of our review.\neffectiveness of the SAE funding formula. 9  We assessed the extent to which FNS has taken steps to address the challenges our selected states identified, such as issuing or revising guidance and regulations since 2020, and obtained selected states' perspectives on those actions.\nFor our third objective examining the extent to which USDA monitors states' use of SAE funds to achieve agency goals, we analyzed compliance reviews that FNS conducted. Specifically, we analyzed management evaluations FNS conducted during fiscal year 2023 that assessed how state agencies used SAE funds. We also analyzed financial management reviews FNS conducted in our four selected states from fiscal years 2019 through 2023. For the management evaluations and financial management reviews, we identified findings and observations related to the use of SAE funds and determined the status of any required corrective actions.\nWe assessed the extent to which FNS's seven regional offices ensured that state agencies submitted timely responses on their planned corrective actions, in accordance with FNS's guidance. We also assessed the time frames within which states took action to address compliance findings and the regional offices validated those actions. We compared FNS's guidance and monitoring efforts with federal internal control standards relevant to performing monitoring activities and addressing risks to achieving the program's objectives. 10  We also assessed these efforts against FNS's fiscal year 2024 priorities of ensuring its programs are implemented with integrity and improving program results and performance, which were in place when we conducted our work.\nWe conducted this performance audit from July 2023 to April 2025 in accordance with generally accepted government auditing standards.\n9 Melissa Rothstein, Vivian Gabor, Chris Manglitz, and Shaima Bereznitsky, Assessing the Child Nutrition State Administrative Expense Formula (Rockville, Maryland: Westat, 2020). We reviewed this 2020 study, which examines the effectiveness of the formula used for allocations of SAE funds, identifies and examines factors that influence state agency spending, and presents a series of options for consideration. The study analyzed interviews with 12 purposively selected states and input from 37 stakeholders who provided public comment, among other things. Although we found the study was welldesigned and implemented, we identified several limitations. For example, the study did not include an economic analysis of the options considered, such as a cost-benefit analysis, and did not define criteria for the level of funding that would be considered 'sufficient.' Nevertheless, we found the study was sufficiently reliable for the purposes of describing SAE-related challenges identified from its qualitative analyses.\n10 GAO, Standards for Internal Control in the Federal Government , GAO-14-704G (Washington, D.C.: September 2014).",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/25",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/26",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/27",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/28",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/29",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/30",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/31",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/32",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/33",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/34",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/35",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/36",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/37",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/38",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/39",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/40",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/41",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/42",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/43",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/44",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/45",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/46",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/47",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/48",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/49",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/50",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/51",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/52",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/53",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/54",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/55",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/56",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/57",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/58",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/59",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/60",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/61",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/62",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/63",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/64",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/65",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/66",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/67",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/68",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/69",
+          "parent": {
+            "cref": "#/texts/24"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Abbreviations"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Those standards require that we plan and perform the audit to obtain sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on our audit objectives.\nThe use of SAE funds is authorized under the Child Nutrition Act of 1966, as amended. Congress began appropriating these funds in 1969 to supplement state resources used to administer child nutrition programs. In addition to the five primary programs (the National School Lunch Program, Special Milk Program, School Breakfast Program, Child and Adult Care Food Program, and USDA Foods in Schools program), state agencies may use their SAE funds to support allowable costs related to administering the Fresh Fruit and Vegetable Program and Summer Food Service Program, according to FNS. 11  State agencies may also use their SAE funds to support Farm to School activities that help bring locally or regionally produced foods into school cafeterias, among other activities. 12 While SAE funds are the primary source of federal administrative funds for child nutrition programs, state agencies also receive separate funds from other federal sources to support administrative costs for the Summer Food Service Program and may retain a portion of the total funds they receive for administrative costs related to the Fresh Fruit and Vegetable Program. 13\nSince 1977, FNS has used a funding formula to annually allocate SAE funds to state agencies. Prior to calculating each state agency's initial SAE allocation, the FNS National Office must determine the total amount\n11 According to FNS, state agencies were able to use SAE funds to support the new Summer Electronic Benefit Transfer Program for Children (Summer EBT) during fiscal year 2023, but they can no longer do so because separate administrative funds were made available for the program.\n12 In fiscal year 2025, Congress appropriated $17 million to support such activities through Farm to School Grants and state agencies are among the eligible recipients for these grants.\n13 States also receive separate funds to support the oversight of the Child and Adult Care Food Program, which are known as 'CACFP audit funds.'\nof SAE funding available for allocation. 14  The SAE funding formula, which was last revised in the 1990s, consists of two types of funding: nondiscretionary and discretionary. 15  According to FNS, each state agency's initial SAE allocation is based on the programs it administers. If more than one state agency administers child nutrition programs in a state, FNS allocates SAE funding to the relevant state agency for each program.\nAccording to FNS, non-discretionary funds are the largest component of the SAE funding formula. These funds are based on prior federal spending in each state for the school meal programs and Child and Adult Care Food Program, which reflects the number and rate of reimbursement for meals served from 2 years earlier. For the school meal programs, a state agency's non-discretionary allocation cannot be less than $200,000, which is annually adjusted for inflation (currently about $203,500). 16  For the Child and Adult Care Food Program, a state agency's non-discretionary allocation is calculated using a graduated formula, which means that as the program's size increases, the funding level incrementally increases. 17  States also receive discretionary funds, a portion of which are distributed in equal amounts to states that administer specific programs, including the Child and Adult Care Food Program and USDA Foods in Schools program. The discretionary funds are also partially divided proportionally based on the number of meals the program served in each state, among other things. 18\n14 In accordance with 42 U.S.C. \u00a7 1776(a)(1)(A), the total amount available nationwide for allocation to state agencies is an amount that is not less than 1.5 percent of the federal funds expended for the National School Lunch Program, School Breakfast Program, Special Milk Program, and Child and Adult Care Food Program during the second preceding fiscal year. While there is no federal reimbursement for USDA Foods in Schools, the Child Nutrition Act of 1966 allows SAE funds to be used by state agencies administering the program, and the program is reflected in the allocations state agencies receive, according to FNS.\n15 According to FNS, 'the terms 'discretionary' and 'non-discretionary' are not intended to describe how State agencies can use [their] funds,' but are the terms used in the law.\n16 7 C.F.R. \u00a7 235.4(a)(1).\n17 7 C.F.R. \u00a7 235.4(a)(2). Non-discretionary funding for the Child and Adult Care Food Program is based on the amount expended by states during the second preceding fiscal year. Each state agency that administers the Child and Adult Care Food Program receives the sum of these four components: (1) 20 percent of program expenditures up to $50,000, (2) 10 percent of program expenditures of $50,001 to $150,000, (3) 5 percent of program expenditures of $150,001 to $400,000, and (4) 2.5 percent of program expenditures greater than $400,000.\n18 Discretionary funding amounts are outlined in 7 C.F.R. \u00a7 235.4(b).\nState agencies have 2 fiscal years to obligate their SAE funds for expenses that support the state-level administration of eligible child nutrition programs, including salaries of state officials (see fig.1). State agencies can carry over up to 20 percent of their total SAE allocationinitial allocation plus any reallocation and transfers funds-into a second fiscal year if they are not able to use all their funds in the first fiscal year. 19 In addition, state agencies must exclude SAE funds from state-imposed budget restrictions and limitations such as hiring freezes. 20\n\u00b7 Reallocation funds. State agencies can request additional SAE funds above their initial SAE allocation each fiscal year through a process called reallocation. 21  SAE reallocation funds generally come from appropriated funds FNS did not initially allocate to state agencies, as well as funds that FNS recovered from state agencies at the end of the first grant year because they were not obligated or expended during the fiscal year, according to FNS.\n\u00b7 Transfer funds. A state agency may transfer SAE funds to another agency within the same state that is eligible to receive SAE funds when the agency has excess funds.\n19 See 42 U.S.C. \u00a7 1776(a)(5)(A).\n20 See 7 C.F.R. \u00a7 235.6(i).\n21 According to FNS, SAE reallocation funds may be used by state agencies for any allowable SAE expense. For example, a state agency may use SAE reallocation funds for staff salaries, freeing up newer SAE funds with longer availability for other projects.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/71",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/72",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/73",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/74",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/75",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/76",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/77",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/78",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/79",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/80",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/81",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/82",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/83",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/84",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/85",
+          "parent": {
+            "cref": "#/groups/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/86",
+          "parent": {
+            "cref": "#/groups/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/87",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/88",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/89",
+          "parent": {
+            "cref": "#/texts/70"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Background"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "October, First Year = January. October, First Year = June. October, First Year = July. October, First Year = September. October, Second Year = Octobera. October, Second Year = September. Beginning of the first fiscal year of the SAE grant. FNS distributes initial SAE allocations to state agencies on a quarterly basis over the first fiscal year of the grant. Each distribution represents 25 percent of their initial SAE allocation., First Year = State agencies submit to FNS their first quarterly financial report on their use of SAE funds_ must continue to submit quarterly financial reports if have funds to report on. A final financial report is submitted when the funds are fully expended or the grant period ends, whichever comes first. They they. Beginning of the first fiscal year of the SAE grant. FNS distributes initial SAE allocations to state agencies on a quarterly basis over the first fiscal year of the grant. Each distribution represents 25 percent of their initial SAE allocation., First Year = State agencies receive additional SAE funds through the reallocation process based on FNS's approval of their requested amounts and availability of funds. Beginning of the first fiscal year of the SAE grant. FNS distributes initial SAE allocations to state agencies on a quarterly basis over the first fiscal year of the grant. Each distribution represents 25 percent of their initial SAE allocation., First Year = Final quarterly distribution of the initial SAE allocation to state agencies.. Beginning of the first fiscal year of the SAE grant. FNS distributes initial SAE allocations to state agencies on a quarterly basis over the first fiscal year of the grant. Each distribution represents 25 percent of their initial SAE allocation., First Year = End of the first fiscal year of the SAE grant. According to FNS, each state must meet its state funding requirement by Sept.30. FNS recovers SAE funds in excess of the 20 percent carryover limit.. Beginning of the first fiscal year of the SAE grant. FNS distributes initial SAE allocations to state agencies on a quarterly basis over the first fiscal year of the grant. Each distribution represents 25 percent of their initial SAE allocation., Second Year = Beginning of the second fiscal year of the SAE grant. State agencies may carry over up to 20 percent of their total SAE into the second fiscal year for obligation. grant. Beginning of the first fiscal year of the SAE grant. FNS distributes initial SAE allocations to state agencies on a quarterly basis over the first fiscal year of the grant. Each distribution represents 25 percent of their initial SAE allocation., Second Year = End of the second fiscal year of the SAE grant. State agencies must obligate; but not necessarily expend, any of their remaining SAE funds. FNS recovers any SAE funds not obligated by Sept. 30 of the second fiscal year.\nSource: GAO analysis of Food and Nutrition Service (FNS) documents on State Administrative Expense (SAE) grants and GAO icons GAO-25-106977\na Each October, state agencies receive another SAE grant for the new fiscal year.\nState agencies are statutorily required to submit an initial SAE plan to FNS for approval and amend their plans when substantive changes occur related to their planned use of SAE funds. 22  FNS requires each state agency's SAE plan include a budget and description of activities to document how it plans to use its SAE funds.\n22 42 U.S.C. \u00a7 1776(e)(2)(A). FNS uses the word 'substantial' instead of 'substantive' in its guidance. For purposes of this report, we use the word substantial except when referring to the specific statutory language.\nAdministrative Funding Has Generally Been Stable, and States Use These Funds to Pay for Staff and Other Expenses\nSAE Allocations Have Been Stable Since 2019, Except for PandemicRelated Increases\nTotal initial SAE allocation amounts from FNS were generally stable from fiscal years 2019 through 2023, before increasing in fiscal year 2024 (see fig. 2). 23  Funding remained stable during most of this period because FNS used program activity data from before the COVID-19 pandemic to calculate states' allocations in fiscal years 2022 and 2023. 24  This helped ensure states' funding did not significantly decrease due to changes in how they served meals during the first 2 years of the pandemic. 25  As previously noted, federal program spending in each state, which largely reflects the number and rate of reimbursement for meals served in certain child nutrition programs from 2 years earlier, is a key input to the SAE funding formula. Funding grew by about 30 percent in fiscal year 2024 in response to increased program spending in fiscal year 2022, which was\n23 While nominal funding increased throughout this period, funding decreased slightly from fiscal year 2020 through fiscal year 2023, when adjusted for inflation. We analyzed inflation rates using the Gross Domestic Product price index for fiscal year 2023, which measures changes in prices paid for goods and services produced in the U.S.\n24 To calculate states' allocations in fiscal years 2022 and 2023, FNS used program activity data from fiscal year 2019 in the SAE funding formula and adjusted allocations for inflation using the Consumer Price Index.\n25 Specifically, for most of fiscal years 2020 and 2021, federal waivers allowed school food authorities to provide free meals to all children, regardless of income or location, yearround through either the Summer Food Service Program or the Seamless Summer Option of the National School Lunch and School Breakfast Programs. Since meals served through the Summer Food Service Program received higher federal reimbursement, most schools initially opted to serve meals through this program, according to FNS. However, meals served through the Summer Food Service Program are not included in the SAE funding formula.\ndue to schools serving more meals and receiving a higher rate of reimbursement for them, according to FNS. 26",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/2",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "table",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/91",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/92",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/93",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/94",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/95",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/96",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/97",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/98",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/99",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/100",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/101",
+          "parent": {
+            "cref": "#/texts/90"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Figure 1: Key Components of the SAE Grant Cycle"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Source: GAO analysis of Food and Nutrition Service (FNS) data on State Administrative Expense (SAE) grants . GAO-25-106977\nAccording to FNS officials, total initial SAE allocations declined in fiscal year 2025, because the number of meals and rate of reimbursement returned to pre-pandemic levels. Specifically, FNS officials said they made available about $373 million in fiscal year 2025 for initial SAE\n26 During the 2021-2022 school year, many schools returned to in-person instruction, which may have partially contributed to more meals being served through the school meal programs, according to FNS. Additionally, a federal waiver allowed schools to offer free meals through the Seamless Summer Option at the higher Summer Food Service Program reimbursement rate. By fiscal year 2022, most schools once again served meals through the National School Lunch and School Breakfast Programs, including through the Seamless Summer Option, according to FNS. These programs are included in the SAE funding formula.\nallocations, which is $101 million less than the amount available in fiscal year 2024. 27\nFederal SAE allocation amounts are significantly larger than states' required funding contributions, which have remained constant since 1977. The statute does not include a provision to adjust these amounts for inflation. 28  Annually, states' collective required funding contributions of about $9 million equate to an average of about $173,000 per state, according to our analysis of FNS's data on states' required contributions. 29  Connecticut has the lowest required contribution (about $25,000) and its federal initial SAE allocation for fiscal year 2024 was about 176 times the size of its required share. Louisiana has the highest required contribution (about $759,000) and its federal initial SAE allocation amount for fiscal year 2024 was about 13 times its required share. According to FNS national officials, regional offices are responsible for ensuring that states meet the funding requirement and do not currently track the extent to which states are providing additional funding to support the administration of these programs. 30\n27 In fiscal year 2025, SAE funding decreased because the largest child nutrition programs served fewer meals and total federal spending on the cost of these meals declined during fiscal year 2023, relative to fiscal years 2021 and 2022. According to FNS, these declines may have been partially due to the expiration of federal waivers that allowed schools to serve meals free of charge to all students and increased federal reimbursements for meals served.\n28 To meet the state funding requirement, states must contribute at least the amount that the state expended or obligated on certain child nutrition programs in fiscal year 1977, not adjusted for inflation (42 U.S.C. \u00a7 1776(f)). See app. I for all states' required funding contributions and ratios of their federal SAE allocation amounts for fiscal year 2024 to their required contributions. To provide additional context on the purchasing power of states' required funding contributions over time, we also adjusted these contributions and ratios for inflation.\n29 In accordance with 7 C.F.R. \u00a7 210.17, states must also support school meal programs through a state revenue matching requirement, which shall not be less than 30 percent of the general cash assistance received by the state during school year 1980-81. States provide these funds to eligible school food authorities to cover all or some of the food, labor, and other administrative costs associated with these programs. According to FNS, state funds provided to support the state funding requirement may not be counted toward this requirement.\n30 In one selected state, California Department of Education officials told us that the state contributed $8.6 million in fiscal year 2024 in addition to the state funding requirement of about $666,000, which is the second highest required contribution in the nation. None of the three remaining selected states contribute additional funds beyond the state funding requirement for SAE, according to state officials we interviewed.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/103",
+          "parent": {
+            "cref": "#/texts/102"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/104",
+          "parent": {
+            "cref": "#/texts/102"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/105",
+          "parent": {
+            "cref": "#/texts/102"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/106",
+          "parent": {
+            "cref": "#/texts/102"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/107",
+          "parent": {
+            "cref": "#/texts/102"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/108",
+          "parent": {
+            "cref": "#/texts/102"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/109",
+          "parent": {
+            "cref": "#/texts/102"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/110",
+          "parent": {
+            "cref": "#/texts/102"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/111",
+          "parent": {
+            "cref": "#/texts/102"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Figure 2: Total Initial SAE Allocation Amounts from FNS, Fiscal Years 2019-2024"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Every spring, state agencies can request additional State Administrative Expense (SAE) funds through the reallocation process. These funds may be used for any allowable SAE expenses. However, each year, FNS prioritizes certain types of expenses when awarding reallocation funds.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/114",
+          "parent": {
+            "cref": "#/texts/113"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "SAE Reallocation Funding Process"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "March: State agencies submit a form to FNS regional offices with their requested amount and descriptions of planned expenses for the additional funds.\nAll four selected states in our review requested reallocation funds from fiscal years 2019 through 2024 to pay for things like IT, professional development activities, staff salaries, and storage and distribution for the USDA Foods in Schools program.\nApril - May : FNS notifies state agencies of their reallocations based on regional offices' recommendations and available funds. In some cases, FNS provides information on other federal grants that may cover unmet funding needs like the Non-Competitive Technology Innovation Grant.\nMany state agencies request reallocation funds each year, but recently FNS has been unable to provide all the funds requested. Specifically, state agencies each requested an average of about $521,000 annually from fiscal years 2019 through 2024. 31  FNS was generally able to provide most of the additional funding that state agencies requested until fiscal year 2023. Since then, FNS has been unable to fund more than half of the total amount requested because the total amount requested exceeded the funds available.\nAs shown in figure 3, total requested amounts have generally grown since fiscal year 2019, but sharply declined in fiscal year 2024 when state agencies received larger initial SAE allocation amounts. 32",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/116",
+          "parent": {
+            "cref": "#/texts/115"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/117",
+          "parent": {
+            "cref": "#/texts/115"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/118",
+          "parent": {
+            "cref": "#/texts/115"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/119",
+          "parent": {
+            "cref": "#/texts/115"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/120",
+          "parent": {
+            "cref": "#/texts/115"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Timeline:"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Source: GAO analysis of Food and Nutrition Service (FNS) data on State Administrative Expense (SAE) grants . GAO-25-106977\n31 State agencies' additional funding requests ranged from about $28,000 to $4.5 million, on average, from fiscal years 2019 through 2024. During this period, an average of 36 state agencies requested additional funds each year.\n32 State agencies' average and median reallocation requests followed the same trend.\nState Agencies Primarily Use SAE Funds for Staffing and 'Other' Expenses\nAt grant closeout, FNS recovered an average of about $232,000 per state agency of unused SAE funds from fiscal years 2019 through 2022, according to the most recent available data at the time of our review. 33 These recovered funds included obligated funds that state agencies were unable to spend by grant closeout. While the trend in the total amount recovered has varied, FNS generally recovered funds from fewer state agencies over this period. For example, FNS recovered funds from 28 state agencies in fiscal year 2022, compared to 36 state agencies in fiscal year 2019. 34  In fiscal year 2023, FNS updated SAE regulations to give state agencies an additional 120 days to spend SAE funds that were obligated by grant closeout. This regulatory change may help reduce the amount of unused SAE funds FNS recovers from state agencies in subsequent fiscal years.\nState agencies primarily spend SAE funds on salaries of staff administering their child nutrition programs and 'other' expenses, including IT. Staff salaries and benefits (52 percent) and 'other' (18 percent) were the top two budget categories (see fig. 4), based on our analysis of the 41 state agency SAE plans that FNS approved in fiscal year 2023.\n33 State agencies' recovery amounts ranged from about $1 to $4.4 million, on average, from fiscal years 2019 through 2022. FNS recovered a total of about $6.9 million per year, on average, during this period from a total of 57 state agencies. During our review, SAE grants for fiscal year 2023 were ongoing and FNS had not yet recovered funds for that year.\n34 SAE funds not obligated during the 2-year period of availability are considered expired funds and will be cancelled by FNS after a 5-year expiration period. Cancelled funds are not available for obligation or expenditure for any purpose and FNS returns these funds to the Department of Treasury. As of December 2024, FNS had not yet returned any SAE funds that expired during fiscal year 2019 but planned to return about $4.3 million at the end of fiscal year 2025.\nStaff Salaries and Benefits\n'Other' Expenses",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/122",
+          "parent": {
+            "cref": "#/texts/121"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/123",
+          "parent": {
+            "cref": "#/texts/121"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/124",
+          "parent": {
+            "cref": "#/texts/121"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/125",
+          "parent": {
+            "cref": "#/texts/121"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/126",
+          "parent": {
+            "cref": "#/texts/121"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/127",
+          "parent": {
+            "cref": "#/texts/121"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/128",
+          "parent": {
+            "cref": "#/texts/121"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/129",
+          "parent": {
+            "cref": "#/texts/121"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/130",
+          "parent": {
+            "cref": "#/texts/121"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/131",
+          "parent": {
+            "cref": "#/texts/121"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Figure 3: Total Requested and Awarded SAE Reallocation Funds, Fiscal Years 2019-2024"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Source; GAO analysis of Food and Nutrition Service (FNS) documents on 41 state agencies'  planned State Administrative Expense (SAE) expenditures for fiscal year 2023. GAO 25-106977\nNote: Figure values do not sum to 100 percent due to rounding. State agencies can vary in how they name budget categories in their SAE plans. In those instances, we identified the corresponding budget category from budget categories described in FNS National Office guidance on developing SAE plans, last updated in fiscal year 1997. The FNS National Office relies on the regional offices to help ensure that state agencies consistently report allowable costs in their SAE plans in accordance with 2 C.F.R. pt. 200.\nThe 41 state agencies in our review planned to use SAE funds to pay for the salaries and benefits of more than 1,000 full-time equivalent (FTE) staff, in total, in fiscal year 2023. 35  For example, the Wyoming Department of Education expected to pay for about four FTEs with its SAE funds. Most of these FTEs would help local staff implement their child nutrition programs through trainings on program policies and would oversee local staff through administrative reviews, according to the plan.\nThe 'other' category of spending included a wide range of administrative expenses, including IT expenses such as computers, data processing systems, and contracts for software maintenance. For example, the\n35 The average number of FTEs per state was 26 and the range was from 1 to 106 FTEs.\nProfessional Development Expenses\nVirginia Department of Health planned to spend about one-third of its 'other' budget to contract with an external vendor to maintain software that helps process meal reimbursement claims and participation data, according to the agency's plan. Although all seven FNS regional offices told us that IT systems are a primary expense, we were unable to calculate the overall planned spending for these systems because they were not itemized and reported in a single budget category.\nAlthough not reported in a single budget category, 39 of the 41 state agencies also included planned activities for professional development, according to our review of their most recent SAE plans. 36\n- \u00b7 Conferences and other professional development opportunities for state-level staff. To support the professional development of state child nutrition staff, about half of state agencies (21) planned to spend SAE funds on conferences and professional memberships, and some (9) planned other professional development activities. For example, officials with the Virginia Department of Agriculture and Consumer Services said they planned to attend the 2023 Virginia School Nutrition Association Conference to share program policy updates with school nutrition staff and host an exhibit on products available through the USDA Foods in Schools program that can be served in school meals.\n36 State agencies do not report professional development activities in one budget category, so we were unable to calculate the overall proportion of SAE expenses for professional development.\nCulinary Trainings Two Selected States Administer Using SAE Funds\n\u00b7 Oklahoma Department of Education Cooking for Kids, led by professional chefs, is a training program for local nutrition staff who prepare meals served in schools and other settings. The state agency, in partnership with Oklahoma State University, administers this program using SAE funds. In summer 2024, this program scheduled 14 sessions of a 2-day, inperson training on knife skills, food safety, and other culinary skills across the state, according to agency officials.\n\u00b7 Virginia Department of Education The state agency's nutrition staff manage the Virginia Food for Virginia Kids program. Staff salaries are paid using SAE funds, and program activities are funded by other FNS nutrition grants. This program builds the capacity of Virginia schools to increase scratch cooking and serve more fresh, local, and student-inspired meals. The state agency partners with professional chefs to operate this program and has trained three cohorts of eight school food authorities each since 2022.\n\u00b7 Required trainings for local child nutrition staff. Nearly all (38) state agencies indicated that SAE funds would cover training costs for local child nutrition staff, such as contracts with external organizations to deliver online trainings.\n\u00b7 Culinary trainings for local child nutrition staff. Nine state agencies included culinary trainings for local nutrition staff and six of these agencies planned to partner with external organizations to provide them.\nFNS Has Not Fully Considered Options to Address States' Challenges and Improve the SAE Funding Process\nSelected States Identified Challenges Related to the Funding Formula, Prioritizing Spending, and Spending Restrictions\nSAE Funding Formula\nOfficials from the four selected states in our review identified various challenges they face in administering child nutrition programs with SAE funds. The challenges include those related to the funding formula for SAE allocations, needing to prioritize spending on essential activities, and managing spending restrictions. These challenges were also identified by FNS regional offices, nonprofit organizations that work on child nutrition issues, and a 2020 study completed for FNS. 37\nOfficials from all four selected states and all four nonprofit organizations said the SAE funding formula FNS uses to calculate each state agency's initial allocation does not fully account for factors that may affect their administrative costs. This is because the statutory formula is largely driven by the number and rate of reimbursement for meals served through certain child nutrition programs. Factors related to state demographics that may affect costs are not part of the formula. Further, other factors, such as costs specific to the USDA Foods in Schools program and the number of school food authorities in a state, are not part of the larger, non-discretionary component of the formula. 38  The 2020 FNS study identified similar state factors that may affect administrative costs and presented options for modifying the SAE funding formula to better account for these factors when FNS calculates each state agency's initial allocation.\n- \u00b7 State demographics. Officials from two of the four selected states said state demographics, such as population and geography, affect administrative costs. For example, according to officials from one\n37 Rothstein, Gabor, Manglitz, and Bereznitsky, Assessing the Child Nutrition State Administrative Expense Formula . As discussed previously, we found the study was welldesigned and implemented, but we identified several limitations. Nevertheless, we found the study was sufficiently reliable for the purposes of describing SAE-related challenges identified from its qualitative analyses.\n38 These factors are considered in the smaller, discretionary part of the formula.\nstate agency we interviewed, states with small populations receive less funding but may spend more per meal compared to states with larger populations. Additionally, states with rural districts may need to spend more on travel and logistics for activities such as administrative reviews. Officials from the other selected state said states with higher costs of living must allocate a greater portion of their SAE funds for staff salaries and benefits.\n\u00b7 Costs specific to the USDA Foods in Schools program. Officials from three of the four selected states said that the equipment and facilities needed for the USDA Foods in Schools program, such as trucks, trailers, and warehouse space, are expensive, and costs are increasing in their states. 39  For example, officials from one state agency said they operate two food distribution warehouses, and a recently renewed lease for one of those warehouses increased the rent by 300 percent. When expenses for the USDA Foods in Schools program cannot be fully covered by SAE funds, state agencies typically charge school food authorities fees to cover those costs. Further, some smaller state agencies relied on transfers from larger agencies to support the administration of this program. 40  For example, one small agency from a selected state received an annual transfer of SAE funds from a larger agency within the state that had excess SAE funds to help cover essential expenses for its USDA Foods in Schools program.\n\u00b7 Number of school food authorities. Officials from three of the four selected states explained that the number of school food authorities they oversee affects travel and personnel costs. 41  The number of school food authorities increases the workload for state agency staff who conduct administrative reviews and provide technical assistance and trainings to local nutrition staff. For example, officials from one\n39 As discussed previously, the USDA Foods in Schools program is not included in the larger, non-discretionary component of the SAE funding formula. States receive a minimum of $30,000 for this program through the smaller, discretionary component of the formula.\n40 We considered a state agency as small or large based on the number of child nutrition programs it administers and compared the relative size of the agencies involved in the transfer. Specifically, we defined small as using SAE funds to administer one to three programs and large as administering four to six programs.\n41 The number of school food authorities in a state is considered through the smaller, discretionary component of the SAE funding formula. Specifically, state agencies receive 20 percent of their funding for this component based on the number of school food authorities in the state and 20 percent based on the number of large school food authorities (those with enrollments of 40,000 students or more).\nPrioritizing Spending state agency said they have one staff member to provide technical assistance to 361 schools, and that person must travel 500 miles to conduct oversight. As a result, officials said they do not have the capacity to provide adequate on-site technical assistance to local nutrition staff implementing the programs.\nOfficials from all four selected states and three of the four nonprofit organizations said state agencies must make tradeoffs with their initial allocations to cover essential administrative costs like technology, staffing, and professional development. In the 2020 FNS study, states also identified technology and staffing as major and growing budget categories. 42\n\u00b7 Technology. All four selected states identified technology as a large cost category, and states faced challenges funding updates to their technology systems and other related expenses. To help states cover these costs, FNS has made additional funds available through the Non-Competitive Technology Innovation Grant (nTIG). 43  However, officials from one state agency said their nTIG funds did not cover the full cost of adding a new system for meal orders. Additionally, officials from another state agency told us recruiting IT staff is challenging because they cannot offer salaries that compete with the private sector.\n\u00b7 Staffing. All four selected states identified various staffing challenges, including having an insufficient number of individuals to complete the work or lacking the necessary expertise. For example, officials from one state agency said they must make tradeoffs on staff responsibilities to comply with program requirements. Such tradeoffs include staff providing less technical assistance to local nutrition staff to free up their time to perform required program oversight. Additionally, officials from another state agency told us staff have combined certain job functions like accounting and program administration.\n\u00b7 Professional development. Officials from three of the four selected states said they are judicious in deciding which professional development opportunities they attend and what resources are\n42 In the FNS 2020 study, professional development travel was included in travel costs, the third major category of expenses in state agencies' SAE budgets.\n43 This grant program provides funds to state agencies for the purposes of developing, improving, and maintaining automated IT systems used to operate and manage child nutrition programs.\nSpending Restrictions available to host trainings for local child nutrition staff because of competing funding priorities.\nIn addition, officials in all four selected states identified challenges related to covering additional administrative costs resulting from new federal requirements and policy initiatives, which the 2020 FNS study also found. 44  For example, state agencies said they must rely on current staff who are already balancing numerous administrative activities rather than hiring specialized staff members to implement new federal requirements. Officials from one state agency said they are not able to hire consultants to implement the new program integrity rules for the Child and Adult Care Food Program like larger states in their FNS region. 45\nAfter covering essential administrative costs, officials from all four selected states said they have minimal SAE funds left to improve program administration, such as pursuing more innovative uses of SAE funds. For example, officials from one state agency said they cannot offer innovative practices like culinary skills training or promoting the use of local foods in school meals, which could help improve implementation of their child nutrition programs. Officials from another state agency said they focus on essential administrative costs such as salaries first and special projects second.\nOfficials from all four selected states, all four nonprofit organizations, and four of seven FNS regional offices described challenges with federal and state processes, and how they interact, which can restrict states' ability to obligate and spend SAE funds. The 2020 FNS study also reported on states' concerns regarding uncertainty about expected funding levels and shortened time frames for spending SAE reallocation funds.\n- \u00b7 SAE initial allocation funds. Prior to fiscal year 2023, SAE initial allocation funds had to be obligated and spent by the end of the second grant year, which created a short timeline for state agencies to fully use these funds. In 2023, FNS amended its regulations to allow states to obligate, but not necessarily spend, funds by the end of the\n44 For example, the 2020 FNS study found that state agencies often cited challenges related to changes in federal policy that expanded the breadth and frequency of administrative reviews for the school meal programs.\n45 FNS issued a final rule on program integrity, effective on September 22, 2023, to strengthen administrative oversight and operational performance of the child nutrition programs, including the Child and Adult Care Food Program. For example, states must conduct more frequent reviews of some institutions participating in the Child and Adult Care Food Program, such those at risk of having serious management problems.\nsecond grant year. Officials from one of the selected state agencies said their agency is typically delayed in obligating their initial SAE allocation, however, because the state legislature and agency leadership must authorize the obligation of federal funds, including SAE funds.\nAdditionally, officials from three of the seven FNS regional offices said their states face challenges effectively budgeting their initial SAE allocation funds because they are uncertain about the total amount they will receive each year. For example, officials from a selected state agency said that the agency has developed its own tool to estimate the amount it will receive from the non-discretionary portion of the formula. However, officials said the state agency still struggles to estimate the discretionary portion because it is complex and based on factors that are unknown to state agencies. To help address this uncertainty, in fiscal year 2024, FNS provided state agencies the projected change in their SAE allocations for fiscal year 2025. FNS officials said state agencies should be able to estimate their SAE funding amount without such projections from FNS in subsequent years because annual SAE funding levels have generally been consistent.\n\u00b7 SAE reallocation funds. Officials from a selected state agency said they face similar challenges spending reallocation funds. The state agency is unable to obligate reallocation funds until it receives the necessary approval from the state legislature, which creates delays in using these funds. Overall, SAE reallocation funds have less utility than initial allocations due to variability in the amount of funds that are made available each year for reallocation, according to officials from three of the seven FNS regional offices. FNS amended its guidance in 2020 to allow state agencies to use reallocation funds for any allowable expense, such as salaries. But officials from one state agency said they were reluctant to use SAE reallocation funds for salaries because there was no guarantee the agency would ultimately receive those funds.\n\u00b7 Carryover. Officials from two selected states said the 20-percent carryover limit for SAE funds can hinder a state agency's ability to manage its funds over the 2-year grant period. Previously, state agencies were only permitted to carry over funds from their initial SAE allocation. While FNS updated its regulations in 2020 to allow state agencies to carry over 20 percent of their total SAE allocation (including reallocation funds) into the second grant year, officials from two selected state agencies said this change did not fully address\nFNS Has Taken Steps to Give States More Flexibility and Resources but Has Not Fully Addressed Challenges, their challenges. Specifically, they cited challenges related to needing to secure state approval to obligate SAE funds, as discussed previously, and other factors that make it difficult to obligate at least 80 percent of their initial allocation in the first year of the grant period. = As previously discussed, FNS has taken action to provide states additional flexibilities for using SAE funds and new federal grants to help support IT costs. However, we have identified several challenges that FNS has not fully addressed, including those related to the SAE formula not fully accounting for administrative costs, SAE reallocation funds, and SAE carryover restrictions (see table 1).",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/133",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/134",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/135",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/136",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/137",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/138",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/139",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/140",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/141",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/142",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/143",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/144",
+          "parent": {
+            "cref": "#/groups/3"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/145",
+          "parent": {
+            "cref": "#/groups/3"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/146",
+          "parent": {
+            "cref": "#/groups/4"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/147",
+          "parent": {
+            "cref": "#/groups/4"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/148",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/149",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/150",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/151",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/152",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/153",
+          "parent": {
+            "cref": "#/groups/5"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/154",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/155",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/156",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/157",
+          "parent": {
+            "cref": "#/groups/6"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/158",
+          "parent": {
+            "cref": "#/groups/6"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/159",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/160",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/161",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/162",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/163",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/164",
+          "parent": {
+            "cref": "#/groups/7"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/165",
+          "parent": {
+            "cref": "#/groups/7"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/166",
+          "parent": {
+            "cref": "#/groups/7"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/167",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/168",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/169",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/170",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/171",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/172",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/173",
+          "parent": {
+            "cref": "#/groups/8"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/174",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/175",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/176",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/177",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/178",
+          "parent": {
+            "cref": "#/groups/9"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/179",
+          "parent": {
+            "cref": "#/groups/9"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/tables/3",
+          "parent": {
+            "cref": "#/texts/132"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "table",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Figure 4: Planned SAE Expenditures by Budget Category from 41 SAE Plans, Fiscal Year 2023"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "SAE initial allocations do not fully account for factors that influence administrative costs, such as state demographics., Food and Nutrition Service (FNS) actions to address challenge = FNS commissioned a study in 2020 to assess the State Administrative Expense (SAE) funding formula. However, since this study, FNS officials told us they have not further evaluated options to modify the SAE funding formula because existing statutory provisions limit the options the agency can implement without congressional action.. States' limited SAE allocations often require them to prioritize essential administrative costs, including technology, over other expenses., Food and Nutrition Service (FNS) actions to address challenge = FNS established additional federal grants, such as the Non-Competitive Technology Innovation Grant in 2020, but two selected state agencies described ongoing challenges related to covering these costs.. Prior to fiscal year 2023, SAE initial allocations had to be obligated and spent by the end of the second grant year and some states were unable to estimate available funding., Food and Nutrition Service (FNS) actions to address challenge = In 2023, FNS updated its regulations to require that state agencies obligate, not necessarily spend, SAE initial allocations by the end of the second grant year. In fiscal year 2024, FNS provided state agencies projected changes in their SAE allocations for the following fiscal year. Going forward, the agency noted that state agencies should be able to estimate their own SAE funding amount, as it will be relatively similar to the amount received in previous years.. SAE reallocation funds have less utility than initial allocations due to variability in additional funding available and a shorter window to obligate and spend funds., Food and Nutrition Service (FNS) actions to address challenge = In 2020, FNS amended its guidance to no longer require that SAE reallocation funds be prioritized for special one-time projects. However, all four selected states said they continued to experience challenges using reallocation funds because of variability in the amount of funding available each year.. The amount that state agencies can carry over makes it difficult to manage SAE funds over the 2-year grant period., Food and Nutrition Service (FNS) actions to address challenge = In 2020, FNS updated its regulations to allow state agencies to carry over 20 percent of their total SAE allocation into the second grant year. However, two selected state agencies described ongoing challenges related to obligating at least 80 percent of their initial allocation by the end of the grant period.\nFNS's fiscal year 2024 priorities include improving results and program performance through a culture of innovation, process analysis, and improvement. While FNS officials told us the SAE allocation process is\ncomplex and any changes would require the agency to carefully consider how any changes would affect all states, the agency has not identified whether further actions-including regulatory or statutory options-to change SAE allocations and processes would be beneficial for states. Without fully considering potential changes to improve SAE allocations and processes, state agencies may continue to experience challenges related to the use of SAE funds and administering their child nutrition programs, particularly as pandemic-related funding increases phase out.\nFNS Monitors States' Use of SAE Funds but States Have Not Fully Addressed Some Compliance Findings and Guidance Remains Outdated\nFNS Monitoring Efforts Identified Issues with States Updating SAE Plans as Required\nTwo FNS Compliance Reviews Monitor States' Use of State SAE Funds\n\u00b7 The agency's Management Evaluation (ME) review guide includes a State Administrative Expense (SAE) funds module. This module assesses a state agency's compliance in the following three areas: SAE plan and budget, SAE funds utilization, and SAE reallocation.\n\u00b7 The Financial Management Review (FMR) review guide includes two modules to assess state agencies' reporting and use of SAE funds. The first module assesses the extent to which the state agency completed its required financial status reports, including the FNS-777 SAE. The second module assesses if the state agency has (1) records to support allowable costs, (2) met the state funding requirement, and (3) complied with SAE carryover requirements.\nFNS regional offices monitor how states use SAE funds in accordance with federal laws and regulations as part of their annual oversight process by conducting management evaluations (ME) and financial management reviews (FMR) of a selection of states each year. According to FNS officials, regional offices use a risk-based approach that considers factors such as time elapsed since the last review and overall meals served to prioritize their selections. While FNS's National ME and FMR Guidance requires regional offices to conduct these reviews of child nutrition programs at least once every 5 years, agency officials explained that regions may conduct these reviews every 3 to 4 years (see sidebar).",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/4",
+          "parent": {
+            "cref": "#/texts/180"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "table",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/181",
+          "parent": {
+            "cref": "#/texts/180"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/182",
+          "parent": {
+            "cref": "#/texts/180"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/183",
+          "parent": {
+            "cref": "#/texts/180"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/184",
+          "parent": {
+            "cref": "#/texts/180"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/185",
+          "parent": {
+            "cref": "#/texts/180"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/186",
+          "parent": {
+            "cref": "#/groups/10"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/187",
+          "parent": {
+            "cref": "#/groups/10"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/188",
+          "parent": {
+            "cref": "#/texts/180"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Table 1: Actions FNS Has Taken to Address Challenges Identified by Selected States, a Prior Study, and Stakeholders Related to Using SAE Funds"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "\u00b7 From fiscal years 2019 through 2023, three of the four selected states (California, Virginia, Wyoming) had FMRs conducted for their child nutrition programs.\n\u00b7 Each of these FMRs resulted in at least one State Administrative Expense-related finding, nearly all of which were closed at the time of our review.\n\u00b7 These findings ranged from untimely submissions of quarterly financial reports to deficiencies in procedures to ensure compliance with federal procurement requirements.\nFor MEs, the most common SAE-related finding in fiscal year 2023 was that state agencies did not submit an amended SAE plan to FNS for approval as required. 46  Specifically, FNS regional offices issued MEs to 20 state agencies that year, and eight of those agencies did not submit a plan when there was a substantial change from the most recently approved plan. 47  As a result, the eight state agencies were issued a finding related to not submitting an amended SAE plan reflecting the most current budget, activities, programs, and staffing levels. As of November 2024, seven of the eight state agencies had submitted an amended SAE plan as required and their findings were closed. 48  We also analyzed FMRs conducted in three of the four selected states from fiscal years 2019 through 2023; these reviews identified a range of findings related to SAE funds (see sidebar). See appendix II for a summary of MEs and FMRs we reviewed.\nFNS regional offices vary in how they ensure state agencies submit amended SAE plans for approval when substantial changes occur. FNS officials said that, while the regional offices encourage state agencies to submit SAE plans annually, they rely on MEs and the SAE reallocation process to monitor the accuracy of SAE plans. The Mid-Atlantic Regional Office is the only regional office that requires state agencies to annually submit SAE plans for approval, according to FNS. This prevents the regional office from having to assess whether the states' plans are up to date as part of an ME, according to FNS national officials, and allows regional office staff to annually communicate any expectations they have about a state agency's planned SAE expenses. Officials from two of the seven regional offices said requiring state agencies to annually submit SAE plans for approval would help improve their oversight of SAE funds.\n46 According to FNS guidance, states must submit amended SAE plans for approval when substantial changes occur from their most recently approved plans. Substantial changes include any (1) increase or decrease to a budget line item which is greater than 20 percent of the amount approved for the budget line item; (2) addition or deletion of any activity; or (3) increase or decrease to the staffing level for any activity which is greater than 20 percent of the staff years approved for that activity. The guidance also stipulates that if the increase or decrease to a budget line item is less than $10,000, regardless of the percentage change, no amendment is required.\n47 During fiscal year 2023, FNS conducted management evaluations of 20 state agencies. While FNS originally selected 21 state agencies, the remaining management evaluation of Vermont Agency of Education was postponed to fiscal year 2024 due to a natural disaster that affected the state.\n48 FNS reported the remaining state agency has not taken sufficient action to develop internal procedures to ensure the SAE plan is updated when a substantial change has been made to the most recently approved plan.\nHalf of Compliance Reports Had Findings That Remained Open for at Least a Year\nPreviously, state agencies were required to submit annual plans to FNS for approval, but Congress revised this requirement in 1996. 49\nFNS's fiscal year 2024 priorities include ensuring its programs are implemented with integrity and improving program results and performance. FNS national officials said they rely on the regional offices to develop procedures to help ensure state agencies update their SAE plans as required. However, as noted previously, regional offices vary in their requirements for state agencies to submit SAE plans and recent compliance findings indicated that states have not always submitted updated plans when required. By better communicating its expectations for submitting SAE plans, or working with Congress to consider whether the frequency with which the plans are submitted needs to be revised, FNS would have greater assurance that approved plans reflect state agencies' current plans and activities and thus, improve oversight.\nWe found that state agencies did not provide timely corrective action responses to regional offices in 40 percent (eight) of the 20 MEs and FMRs issued that assessed the use of SAE funds and had open findings as of October 2024. 50  FNS's National ME and FMR guidance establishes procedures for monitoring and tracking corrective action responses. According to this guidance, state agencies must submit a corrective action response for each finding within 60 days of the report date and regional offices must update the status of corrective actions at least monthly in the system of record and include relevant documentation. 51\nIn addition, we found that 11 of the 20 reports had findings that remained open for at least 1 year. The length of time findings remained open ranged from 1 year in three FNS regions to 7 years in one FNS region. Regional offices are primarily responsible for determining if a state agency's time frames for taking corrective action are reasonable. However, there is no minimum time frame or goal for regional offices to validate that a state agency has taken corrective action to close an open finding, according to FNS's guidance. According to FNS national officials,\n49 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996 removed the annual SAE plan requirement.\n50 On average, state agencies submitted corrective action responses within 55 days of the report date. Since MEs and FMRs assess multiple program areas, the open findings may not be related to the use of SAE funds.\n51 A corrective action response contains actions that are proposed or taken by a state agency to respond to a finding.\nthere is no minimum time frame because milestones are specific to the circumstances of each finding. For example, some findings may require changes to state procurement rules or changes to state accounting systems. In addition, there may be extenuating circumstances that impact state agencies' ability to implement corrective actions in a timely manner, such as during the COVID-19 pandemic.\nAccording to FNS national officials, regional offices provide technical assistance to help state agencies address extenuating circumstances. In addition, the FNS National Office can provide policy clarifications or help regional offices provide technical assistance to state agencies on complex policy issues. Finally, to encourage timely follow-up on findings, the FNS National Office provides regional offices with a monthly report of open findings that have not been updated in the system of record within the last year.\nAs part of its quality assurance efforts for MEs and FMRs, the FNS National Office also identified issues with the extent to which regional offices were monitoring state agencies' corrective action responses and remediating open findings. 52  Of the seven regional offices reviewed during fiscal year 2023, five did not always adequately monitor state agencies' corrective action responses or fully document related follow-up actions in the system of record, according to the MEs and FMRs that FNS selected for quality assurance review. This review represented 10 FNS program areas, including the child nutrition programs. 53  Each regional office is responsible for taking corrective action on the findings that result from the quality assurance review.\nFNS's fiscal year's 2024 priorities include ensuring its programs are implemented with integrity and improving program results and performance. Federal internal control standards also require agencies to\n52 For FNS National Office's fiscal year 2023 Quality Assurance Review of MEs and FMRs, the sample selection reflected 10 FNS program areas, including child nutrition programs, and sampled a total of 194 ME and FMR reports. The sample was developed using riskbased criteria, such as repeat and open findings from ME and FMR reports issued during fiscal year 2022. To communicate the outcome of quality assurance reviews of MEs and FMRs, FNS issues an annual report that summarizes recommendations made to the regional offices as well as any patterns or trends for further review.\n53 The Midwest and Southeast Regional Offices were found to be compliant with monitoring the state agency's corrective action response for the MEs and FMRs tested. However, these regional offices did not ensure the system of record contained all the required documents for the MEs and FMRs that were tested.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/190",
+          "parent": {
+            "cref": "#/groups/11"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/191",
+          "parent": {
+            "cref": "#/groups/11"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/192",
+          "parent": {
+            "cref": "#/groups/11"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "list_item",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/193",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/194",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/195",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/196",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/197",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/198",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/199",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/200",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/201",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/202",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/203",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/204",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/205",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/206",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/207",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/208",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/209",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/210",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/211",
+          "parent": {
+            "cref": "#/texts/189"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Financial Management Reviews (FMR) in Selected States"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "remediate monitoring deficiencies in a timely manner. 54  Although FNS officials noted that there may be reasons outside of regional offices' control that findings remain open for longer periods, we have highlighted strategies in our past work that agencies can use when faced with such a challenge. These strategies include using data on external factors to adjust for their effect on the goal or setting different goals for different populations for which the agency has different expectations. 55  For example, FNS could set a goal or target for state agencies to complete follow-up actions on a certain percentage of findings, and for regional offices to validate those actions, within a specified time frame (e.g., a year). Without establishing goals or other targets that help ensure state agencies are taking corrective action in a timely manner, FNS cannot be sure that its compliance reviews will improve results and program performance.\nTwo key FNS guidance documents related to SAE funds have been in place for about 30 years or more. First, FNS's primary SAE guidance-an instruction manual last updated in 1988-outlines basic guidelines for SAE funds, including allowable costs, but refers to outdated policies and procedures. For example, this manual refers to a form that states no longer use to report on the status of their SAE funds. 56  Second, FNS has additional guidance on developing SAE plans, including a suggested template with fields to describe budget and activity categories for states to use, that was last updated in fiscal year 1997.\nAs a result of outdated SAE guidance, we found that state agencies may not be consistently reporting certain costs in their SAE plans in\n54 GAO , Standards for Internal Control in the Federal Government , GAO-14-704G. (Washington, D.C.: September 2014). Specifically, according to Principle 17.01, management should remediate identified internal control deficiencies on a timely basis.\n55 GAO, Veterans Justice Outreach Program: VA Could Improve Management by Establishing Performance Measures and Fully Assessing Risks , GAO-16-393 (Washington, D.C.: Apr. 28, 2016).\n56 FNS Instruction 781-2 is the primary SAE guidance. For example, this instruction refers to SF-269, the financial status report that state agencies are required to submit quarterly regarding the use of their SAE funds. However, this form has been replaced by FNS-777 SAE.\naccordance with the current cost principles for federal awards. 57  In the 41 recently approved SAE plans we reviewed, state agencies used different cost categories to report IT-related costs, including 'other' and 'support services/general administration,' which are cost categories provided in FNS's 1997 guidance. 58  FNS national officials said they rely on the regional offices to help ensure state agencies consistently report all allowable SAE costs in accordance with federal regulations when developing their SAE plans.\nFNS officials acknowledged that SAE guidance requires some updates. FNS circulated draft guidance in 2019 that updated its SAE plan guidance and template to regional offices for feedback. 59  However, FNS officials said the agency ultimately did not finalize updates to its SAE guidance and cited several competing priorities, including becoming responsible for the implementation of non-congregate meals and Summer EBT during the pandemic. 60\nOfficials from one FNS regional office said new SAE guidance and standardized templates would be extremely helpful when providing technical assistance to state agencies and reviewing SAE plans for approval. Officials in two of the four selected states also agreed that it would be helpful for FNS to update its SAE plan guidance such as developing a standardized spreadsheet-based template and providing current guidance on budget requirements. In one selected state, officials worked with their FNS regional office to modify various cost categories in\n57 2 C.F.R. Part 200 is the primary federal regulation on allowable costs and administrative requirements for grants awarded to non-federal entities. In December 2013, cost principles for federal awards were officially codified at 2 C.F.R. Part 200. This replaced cost principles included in A-87 and other Office of Management and Budget circulars cited in FNS's Instruction and SAE plan guidance.\n58 Pursuant to 2 C.F.R. \u00a7 200.1, information technology systems are included under 'general purpose equipment' and are allowed as direct costs with prior written approval under 2 C.F.R. \u00a7 200.439.\n59 Among other things, this draft guidance clarified how state agencies should report SAE costs related to IT systems in accordance with federal regulations and updated the template's budget categories and subcategories based on those requirements.\n60 FNS's implementation of non-congregate meals allowed certain rural areas to distribute meals to children outside of the typically required group (congregate) settings through the Summer Food Service Program and National School Lunch Program Seamless Summer Option.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/213",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/214",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/215",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/216",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/217",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/218",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/219",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/220",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/221",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/222",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/223",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/224",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/225",
+          "parent": {
+            "cref": "#/texts/212"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "FNS Has Not Updated SAE Guidance"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "the SAE plan template that FNS provides to ensure their reported information is accurate.\nFNS's fiscal year 2024 priorities include ensuring its programs are implemented with integrity and improving program results and performance. Without updated SAE guidance, FNS cannot ensure its regional offices are consistently assisting state agencies with SAE grant reporting requirements, which can create challenges for states trying to meet those requirements.\nThe Child Nutrition Act of 1966, as amended, authorized FNS to provide SAE funds to states for child nutrition programs. The amount of funding allocated to each state agency is based on the SAE funding formula, which was last revised in the 1990s. Current trends and challenges identified by state agencies suggest that, overall, states are not able to use their SAE funds effectively for various reasons. Given that federal SAE funding is more limited in fiscal year 2025 as pandemic-related funding increases have phased out, it is important that FNS review how it can improve the effectiveness of SAE allocations and processes and determine whether changes are warranted.\nIn addition, while states are required to submit SAE plans to FNS for approval when substantial changes occur, eight of the 20 state agencies that received MEs during fiscal year 2023 did not do so. As a result, FNS lacks assurance that states' SAE plans reflect their current plans and activities. This lack of visibility over states' use of SAE funds makes it difficult for FNS regional offices to identify in a timely manner, for example, the types of expenses that are increasing or changing over time and help states address any challenges.\nFurther, FNS relies on its compliance reviews to monitor states' use of SAE funds retrospectively and requires states to address findings that result from these reviews. Yet, FNS has not established an expected goal or target for states to take corrective action within a specified time frame. In addition, given variation across regional offices in the timeliness of their follow-up activities, some states may continue to be slow and uneven in taking corrective actions. Additional efforts to improve the timeliness of these activities could help FNS ensure its compliance reviews improve results and program performance.\nFinally, officials from two of the four selected states and others have expressed concerns about outdated SAE guidance. While FNS has acknowledged that updating this guidance has been overtaken by other",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/227",
+          "parent": {
+            "cref": "#/texts/226"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/228",
+          "parent": {
+            "cref": "#/texts/226"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/229",
+          "parent": {
+            "cref": "#/texts/226"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/230",
+          "parent": {
+            "cref": "#/texts/226"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/231",
+          "parent": {
+            "cref": "#/texts/226"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/232",
+          "parent": {
+            "cref": "#/texts/226"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Conclusions"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "priorities within the agency, additional efforts could help increase FNS's assurance that regional offices are consistently assisting state agencies with SAE grant reporting requirements.\nWe are making the following four recommendations to USDA:\nThe Secretary of Agriculture should direct the Food and Nutrition Service to identify changes that would help improve SAE allocations and processes and determine how it could implement those changes, including by pursuing any regulatory changes or requesting any necessary statutory authority. (Recommendation 1)\nThe Secretary of Agriculture should direct the Food and Nutrition Service to identify specific steps it can take to help ensure the agency has current information on states' planned budgets and activities for using SAE funds, such as better communicating expectations for submission of SAE plans or working with Congress to consider whether the frequency with which these are submitted needs to be revised. (Recommendation 2)\nThe Secretary of Agriculture should ensure the Food and Nutrition Service establishes timeliness goals or other targets to ensure states take corrective action on SAE compliance review findings in a timely manner. (Recommendation 3)\nThe Secretary of Agriculture should ensure the Food and Nutrition Service updates its SAE guidance to reflect current SAE grant requirements and is useful to state agency personnel responsible for compliance. (Recommendation 4)\nWe provided a draft of this report to USDA for review and comment. USDA provided comments by email stating that the agency generally concurs with all four recommendations and observing that the recommendations align with the agency's guiding principles and priorities of executing programs with integrity and accountability. USDA plans to provide more detailed responses on its actions to address the recommendations within 180 days. In particular, USDA noted that efforts are already underway to address the first recommendation, including reviewing and taking actions consistent with the 2020 study the agency commissioned to assess the SAE funding formula and present a series of options to potentially improve SAE allocations and procedures. USDA also provided technical comments, which we incorporated as appropriate.\nAs agreed with your offices, unless you publicly announce the contents of this report earlier, we plan no further distribution until 30 days from the report date. At that time, we will send copies to the appropriate congressional committee, the Secretary of the Agriculture, and other interested parties. In addition, the report is available at no charge on the GAO website at http://www.gao.gov.\nIf you or your staff have any questions about this report, please contact me at larink@gao.gov. Contact points for our Offices of Congressional Relations and Public Affairs may be found on the last page of this report. GAO staff who made key contributions to this report are listed in appendix III.\nKathryn A. Larin, Director Education, Workforce, and Income Security Issues",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/235",
+          "parent": {
+            "cref": "#/texts/234"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/236",
+          "parent": {
+            "cref": "#/texts/234"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/237",
+          "parent": {
+            "cref": "#/texts/234"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/238",
+          "parent": {
+            "cref": "#/texts/234"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/239",
+          "parent": {
+            "cref": "#/texts/234"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/240",
+          "parent": {
+            "cref": "#/texts/234"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/241",
+          "parent": {
+            "cref": "#/texts/234"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/242",
+          "parent": {
+            "cref": "#/texts/234"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/243",
+          "parent": {
+            "cref": "#/texts/234"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/244",
+          "parent": {
+            "cref": "#/texts/234"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Agency Comments"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Table 2: Ratio of Initial SAE Allocations to State Funding Requirements by State\n, State funding requirement a = Nominal amount (1977 dollars). , State funding requirement a = Inflation adjusted amount (2023 dollars). , Initial SAE allocation, fiscal year 2024 (nominal dollars) = . , Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = Ratio using nominal amounts. , Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = Ratio using inflation adjusted amounts. AK, State funding requirement a = 44,590. AK, State funding requirement a = 176,631. AK, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 1,205,525. AK, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 27.0. AK, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 6.8. AL, State funding requirement a = 134,390. AL, State funding requirement a = 532,350. AL, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 8,255,948. AL, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 61.4. AL, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 15.5. AR, State funding requirement a = 181,340. AR, State funding requirement a = 718,330. AR, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 5,321,679. AR, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 29.3. AR, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 7.4. AZ, State funding requirement a = 84,965. AZ, State funding requirement a = 336,566. AZ, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 9,547,678. AZ, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 112.4. AZ, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 28.4. CA, State funding requirement a = 666,272. CA, State funding requirement a = 2,639,258. CA, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 54,960,918. CA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 82.5. CA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 20.8. CO, State funding requirement a = 65,732. CO, State funding requirement a = 260,380. CO, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 5,905,983. CO, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 89.8. CO, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 22.7. CT, State funding requirement a = 25,138. CT, State funding requirement a = 99,577. CT, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 4,432,545. CT, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 176.3. CT, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 44.5. DC, State funding requirement a = 108,345. DC, State funding requirement a = 429,180. DC, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 2,176,209. DC, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 20.1. DC, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 5.1. DE, State funding requirement a = 169,911. DE, State funding requirement a = 673,057. DE, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 1,730,029. DE, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 10.2. DE, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 2.6\nState, State funding requirement a = Nominal amount (1977 dollars). State, State funding requirement a = Inflation adjusted amount (2023 dollars). State, Initial SAE allocation, fiscal year 2024 (nominal dollars) = . State, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = Ratio using nominal amounts. State, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = Ratio using inflation adjusted amounts. FL, State funding requirement a = 133,394. FL, State funding requirement a = 528,405. FL, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 30,108,671. FL, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 225.7. FL, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 57.0. GA, State funding requirement a = 275,423. GA, State funding requirement a = 1,091,014. GA, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 18,158,089. GA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 65.9. GA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 16.6. GU, State funding requirement a = 86,424. GU, State funding requirement a = 342,346. GU, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 400,822. GU, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 4.6. GU, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 1.2. HI, State funding requirement a = 185,843. HI, State funding requirement a = 736,167. HI, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 1,440,193. HI, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 7.7. HI, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 2.0. IA, State funding requirement a = 148,914. IA, State funding requirement a = 589,883. IA, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 5,157,318. IA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 34.6. IA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 8.7. ID, State funding requirement a = 54,969. ID, State funding requirement a = 217,745. ID, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 2,055,304. ID, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 37.4. ID, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 9.4. IL, State funding requirement a = 221,414. IL, State funding requirement a = 877,072. IL, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 15,825,352. IL, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 71.5. IL, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 18.0. IN, State funding requirement a = 279,609. IN, State funding requirement a = 1,107,596. IN, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 9,855,410. IN, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 35.2. IN, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 8.9. KS, State funding requirement a = 121,793. KS, State funding requirement a = 482,450. KS, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 3,963,549. KS, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 32.5. KS, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 8.2. KY, State funding requirement a = 271,050. KY, State funding requirement a = 1,073,692. KY, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 7,173,457. KY, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 26.5. KY, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 6.7. LA, State funding requirement a = 758,838. LA, State funding requirement a = 3,005,933. LA, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 9,706,841. LA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 12.8. LA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 3.2. MA, State funding requirement a = 439,019. MA, State funding requirement a = 1,739,056. MA, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 8,416,558. MA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 19.2. MA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 4.8. MD, State funding requirement a = 225,563. MD, State funding requirement a = 893,507. MD, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 9,767,213. MD, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 43.3. MD, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 10.9. ME, State funding requirement a = 111,358. ME, State funding requirement a = 441,115. ME, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 1,613,323. ME, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 14.5. ME, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 3.7. MI, State funding requirement a = 186,907. MI, State funding requirement a = 740,382. MI, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 11,377,612. MI, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 60.9. MI, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 15.4. MN, State funding requirement a = 162,627. MN, State funding requirement a = 644,203. MN, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 11,677,436. MN, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 71.8. MN, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 18.1. MO, State funding requirement a = 151,024. MO, State funding requirement a = 598,241. MO, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 10,093,933. MO, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 66.8. MO, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 16.9. MS, State funding requirement a = 169,192. MS, State funding requirement a = 670,209. MS, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 5,498,601. MS, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 32.5. MS, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 8.2. MT, State funding requirement a = 67,276. MT, State funding requirement a = 266,496. MT, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 1,454,185. MT, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 21.6. MT, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 5.5. NC, State funding requirement a = 359,383. NC, State funding requirement a = 1,423,599. NC, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 12,609,610. NC, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 35.1. NC, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 8.9. ND, State funding requirement a = 72,591. ND, State funding requirement a = 287,550. ND, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 1,523,549. ND, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 21.0. ND, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 5.3. NE, State funding requirement a = 41,176. NE, State funding requirement a = 163,108. NE, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 3,550,874. NE, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 86.2. NE, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 21.8. NH, State funding requirement a = 27,491. NH, State funding requirement a = 108,898. NH, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 1,322,906. NH, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 48.1. NH, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 12.1. NJ, State funding requirement a = 127,441. NJ, State funding requirement a = 504,823. NJ, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 12,690,385. NJ, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 99.6. NJ, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 25.1. NM, State funding requirement a = 52,500. NM, State funding requirement a = 207,965. NM, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 3,519,503. NM, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 67.0. NM, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 16.9. NV, State funding requirement a = 62,435. NV, State funding requirement a = 247,320. NV, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 3,326,778. NV, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 53.3. NV, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 13.5. NY, State funding requirement a = 392,997. NY, State funding requirement a = 1,556,752. NY, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 26,312,190. NY, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 67.0. NY, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 16.9. OH, State funding requirement a = 232,238. OH, State funding requirement a = 919,949. OH, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 14,859,785. OH, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 64.0. OH, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 16.2. OK, State funding requirement a = 359,893. OK, State funding requirement a = 1,425,620. OK, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 6,720,863. OK, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 18.7. OK, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 4.7. OR, State funding requirement a = 86,165. OR, State funding requirement a = 341,320. OR, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 4,039,599. OR, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 46.9. OR, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 11.8. PA, State funding requirement a = 35,221. PA, State funding requirement a = 139,519. PA, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 14,650,146. PA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 415.9. PA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 105.0. PR, State funding requirement a = 123,696. PR, State funding requirement a = 489,989. PR, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 2,383,432. PR, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 19.3. PR, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 4.9\n, State funding requirement a = Nominal amount (1977 dollars). , State funding requirement a = Inflation adjusted amount (2023 dollars). , Initial SAE allocation, fiscal year 2024 (nominal dollars) = . , Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = Ratio using nominal amounts. , Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = Ratio using inflation adjusted amounts. RI, State funding requirement a = 150,000. RI, State funding requirement a = 594,185. RI, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 1,316,568. RI, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 8.8. RI, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 2.2. SC, State funding requirement a = 104,804. SC, State funding requirement a = 415,153. SC, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 6,885,651. SC, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 65.7. SC, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 16.6. SD, State funding requirement a = 101,556. SD, State funding requirement a = 402,287. SD, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 1,469,588. SD, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 14.5. SD, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 3.7. TN, State funding requirement a = 134,100. TN, State funding requirement a = 531,201. TN, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 9,882,797. TN, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 73.7. TN, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 18.6. TX, State funding requirement a = 199,102. TX, State funding requirement a = 788,689. TX, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 55,385,194. TX, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 278.2. TX, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 70.2. UT, State funding requirement a = 178,569. UT, State funding requirement a = 707,353. UT, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 4,658,725. UT, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 26.1. UT, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 6.6. VA, State funding requirement a = 173,492. VA, State funding requirement a = 687,242. VA, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 10,544,465. VA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 60.8. VA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 15.3. VT, State funding requirement a = 50,692. VT, State funding requirement a = 200,803. VT, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 901,952. VT, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 17.8. VT, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 4.5. WA, State funding requirement a = 109,239. WA, State funding requirement a = 432,721. WA, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 7,382,859. WA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 67.6. WA, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 17.1. WI, State funding requirement a = 287,112. WI, State funding requirement a = 1,137,317. WI, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 7,050,986. WI, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 24.6. WI, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 6.2. WV, State funding requirement a = 163,066. WV, State funding requirement a = 645,942. WV, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 2,686,360. WV, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 16.5. WV, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 4.2. WY, State funding requirement a = 30,512. WY, State funding requirement a = 120,865. WY, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 856,234. WY, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 28.1. WY, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 7.1. Total, State funding requirement a = 9,186,791. Total, State funding requirement a = 36,391,012. Total, Initial SAE allocation, fiscal year 2024 (nominal dollars) = 473,811,380. Total, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 51.6. Total, Ratio of state's initial SAE allocation, fiscal year 2024, to state funding requirement b = 13.0\na We excluded the U.S. Virgin Islands because it does not need to comply with the SAE state funding requirement. In accordance with 42 U.S.C. \u00a7 1776(f), SAE funding shall be made only to states that agree to maintain a state level of funding for administrative costs not less than the amount expended or obligated in fiscal year 1977; the U.S. Virgin Islands did not provide funding for administrative costs in fiscal year 1977. Under the statute, the SAE state funding requirement is not adjusted for inflation. In addition to the SAE state funding requirement, in accordance with 7 C.F.R. \u00a7 210.17, states must also support school meal programs through a state revenue matching requirement, which shall not be less than 30 percent of the general cash assistance received by the state during school year 1980-81. States provide these funds to eligible school food authorities to cover all or some of the food, labor, and other administrative costs associated with these programs. According to FNS, state funds provided to support the state funding requirement may not be counted toward this requirement. Finally, some states may contribute funds beyond the state funding and state revenue matching requirements, but FNS does not track this information.\nb Fiscal year 2024 initial SAE allocations were higher due to factors related to the pandemic, such as temporary increases in meal reimbursement rates. However, federal SAE allocation amounts have historically been significantly larger than states' required funding contributions. For example, the share of total federal SAE allocations for fiscal year 2023 was about 36 times the total state required funding contributions.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/247",
+          "parent": {
+            "cref": "#/texts/246"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/tables/5",
+          "parent": {
+            "cref": "#/texts/246"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "table",
+          "prov": []
+        },
+        {
+          "self_ref": "#/tables/6",
+          "parent": {
+            "cref": "#/texts/246"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "table",
+          "prov": []
+        },
+        {
+          "self_ref": "#/tables/7",
+          "parent": {
+            "cref": "#/texts/246"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "table",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/248",
+          "parent": {
+            "cref": "#/texts/246"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/249",
+          "parent": {
+            "cref": "#/texts/246"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Figure 5: Average Initial SAE Allocation Amounts by State, Fiscal Years 2019-2024"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Food and Nutrition Service (FNS) issued eight management evaluation reports to state agencies in fiscal year 2023 with a State Administrative Expense (SAE)-related finding.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/251",
+          "parent": {
+            "cref": "#/texts/250"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Appendix II: Summary of Selected Compliance Review Reports from Fiscal Years 2019 Through 2023 Appendix II: Summary of Selected Compliance Review Reports from Fiscal Years 2019 Through 2023"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Arkansas Department of Education, FNS regional office = Southwest. Arkansas Department of Education, Finding related to submitting an amended SAE plan a = \u2714. Arkansas Department of Education, SAE observation b = \u2716. Arkansas Department of Education, SAE noteworthy initiative = \u2716. Arkansas Department of Education, SAE plan finding closed = \u2714. Hawaii Department of Education, FNS regional office = Western. Hawaii Department of Education, Finding related to submitting an amended SAE plan a = \u2714. Hawaii Department of Education, SAE observation b = \u2716. Hawaii Department of Education, SAE noteworthy initiative = \u2716. Hawaii Department of Education, SAE plan finding closed = \u2714. Maine Department of Education, FNS regional office = Northeast. Maine Department of Education, Finding related to submitting an amended SAE plan a = \u2714. Maine Department of Education, SAE observation b = \u2716. Maine Department of Education, SAE noteworthy initiative = \u2716. Maine Department of Education, SAE plan finding closed = \u2714. New Hampshire Education Department, FNS regional office = Northeast. New Hampshire Education Department, Finding related to submitting an amended SAE plan a = \u2714. New Hampshire Education Department, SAE observation b = \u2716. New Hampshire Education Department, SAE noteworthy initiative = \u2716. New Hampshire Education Department, SAE plan finding closed = \u2714. South Carolina Department of Education, FNS regional office = Southeast. South Carolina Department of Education, Finding related to submitting an amended SAE plan a = \u2714. South Carolina Department of Education, SAE observation b = \u2716. South Carolina Department of Education, SAE noteworthy initiative = \u2716. South Carolina Department of Education, SAE plan finding closed = \u2716. Tennessee Department of Education, FNS regional office = Southeast. Tennessee Department of Education, Finding related to submitting an amended SAE plan a = \u2714. Tennessee Department of Education, SAE observation b = \u2716. Tennessee Department of Education, SAE noteworthy initiative = \u2716. Tennessee Department of Education, SAE plan finding closed = \u2714. Texas Department of Agriculture, FNS regional office = Southwest. Texas Department of Agriculture, Finding related to submitting an amended SAE plan a = \u2714. Texas Department of Agriculture, SAE observation b = \u2716. Texas Department of Agriculture, SAE noteworthy initiative = \u2714. Texas Department of Agriculture, SAE plan finding closed = \u2714. Washington Office of Superintendent of Public Instruction, FNS regional office = Western. Washington Office of Superintendent of Public Instruction, Finding related to submitting an amended SAE plan a = \u2714. Washington Office of Superintendent of Public Instruction, SAE observation b = \u2716. Washington Office of Superintendent of Public Instruction, SAE noteworthy initiative = \u2716. Washington Office of Superintendent of Public Instruction, SAE plan finding closed = \u2714\nLegend: \uf0fc = Identified X = Not identified\na 7 C.F.R. \u00a7 235.5(c) requires state agencies to submit an amended State Administrative Expense (SAE) plan to their FNS regional office for approval when substantive changes occur.\nb According to FNS, state agencies are only required to identify corrective actions for findings, not observations.\nAppendix II: Summary of Selected Compliance Review Reports from Fiscal Years 2019 Through 2023\nFrom fiscal years 2019 through 2023, three of the four selected states (California, Virginia, Wyoming) had financial management reviews (FMR) conducted for their child nutrition programs. Each of these FMRs resulted in at least one SAE-related finding, nearly all of which were closed at the time of our review.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/8",
+          "parent": {
+            "cref": "#/texts/252"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "table",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/253",
+          "parent": {
+            "cref": "#/texts/252"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/254",
+          "parent": {
+            "cref": "#/texts/252"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/255",
+          "parent": {
+            "cref": "#/texts/252"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/256",
+          "parent": {
+            "cref": "#/texts/252"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/257",
+          "parent": {
+            "cref": "#/texts/252"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Table 3: Summary of Selected FNS Fiscal Year 2023 Management Evaluation Reports, as of November 2024"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "California Department of Education, FNS regional office = Western. California Department of Education, Fiscal year = 2020. California Department of Education, Number of findings = 4. California Department of Education, Number of observations = 1. California Department of Education, At least one State Administrative Expense- related finding = \u2714. California Department of Education, Findings closed = \u2716. Virginia Department of Education, FNS regional office = Mid-Atlantic. Virginia Department of Education, Fiscal year = 2019. Virginia Department of Education, Number of findings = 1. Virginia Department of Education, Number of observations = 0. Virginia Department of Education, At least one State Administrative Expense- related finding = \u2714. Virginia Department of Education, Findings closed = \u2714. Virginia Department Education, FNS regional office = Mid-Atlantic. Virginia Department Education, Fiscal year = 2022. Virginia Department Education, Number of findings = 2. Virginia Department Education, Number of observations = 1. Virginia Department Education, At least one State Administrative Expense- related finding = \u2714. Virginia Department Education, Findings closed = \u2714. Virginia Department of Health, FNS regional office = Mid-Atlantic. Virginia Department of Health, Fiscal year = 2021. Virginia Department of Health, Number of findings = 4. Virginia Department of Health, Number of observations = 0. Virginia Department of Health, At least one State Administrative Expense- related finding = \u2714. Virginia Department of Health, Findings closed = \u2714. Wyoming Department of Education, FNS regional office = Mountain Plains. Wyoming Department of Education, Fiscal year = 2019. Wyoming Department of Education, Number of findings = 3. Wyoming Department of Education, Number of observations = 2. Wyoming Department of Education, At least one State Administrative Expense- related finding = \u2714. Wyoming Department of Education, Findings closed = \u2714\nLegend: \uf0fc = Identified X = Not identified\nNote: According to FNS, state agencies are only required to identify corrective actions for findings, not observations.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/9",
+          "parent": {
+            "cref": "#/texts/258"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "table",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/259",
+          "parent": {
+            "cref": "#/texts/258"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/260",
+          "parent": {
+            "cref": "#/texts/258"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Table 4: Summary of Selected FNS Financial Management Review Reports, as of September 2024"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Kathryn A. Larin, larink@gao.gov\nIn addition to the contact named above, Rachael Chamberlin (Assistant Director), Brian Egger (Analyst in Charge), Joey Carroll, Adam Darr, Noelle Du Bois, John Mingus, Afsana Oreen, Rhiannon Patterson, Patricia Powell, James Rebbe, Miranda Richard, Ronni Schwartz, Joy Solmonson, and Curtia Taylor made key contributions to this report.\nGAO Contact\nStaff Acknowledgments\nObtaining Copies of GAO Reports and Testimony, The Government Accountability Office, the audit, evaluation, and investigative arm of Congress, exists to support Congress in meeting its constitutional responsibilities and to help improve the performance and accountability of the federal government for the American people. GAO examines the use of public funds; evaluates federal programs and policies; and provides analyses, recommendations, and other assistance to help Congress make informed oversight, policy, and funding decisions. GAO's commitment to good government is reflected in its core values of accountability, integrity, and reliability. = The fastest and easiest way to obtain copies of GAO documents at no cost is through our website. Each weekday afternoon, GAO posts on its website newly released reports, testimony, and correspondence. You can also subscribe to GAO's email updates to receive notification of newly posted products.. Order by Phone, The Government Accountability Office, the audit, evaluation, and investigative arm of Congress, exists to support Congress in meeting its constitutional responsibilities and to help improve the performance and accountability of the federal government for the American people. GAO examines the use of public funds; evaluates federal programs and policies; and provides analyses, recommendations, and other assistance to help Congress make informed oversight, policy, and funding decisions. GAO's commitment to good government is reflected in its core values of accountability, integrity, and reliability. = The price of each GAO publication reflects GAO's actual cost of production and distribution and depends on the number of pages in the publication and whether the publication is printed in color or black and white. Pricing and ordering information is posted on GAO's website, https://www.gao.gov/ordering.htm. Place orders by calling (202) 512-6000, toll free (866) 801-7077, or TDD (202) 512-2537. Orders may be paid for using American Express, Discover Card, MasterCard, Visa, check, or money order. Call for additional information.. Connect with GAO, The Government Accountability Office, the audit, evaluation, and investigative arm of Congress, exists to support Congress in meeting its constitutional responsibilities and to help improve the performance and accountability of the federal government for the American people. GAO examines the use of public funds; evaluates federal programs and policies; and provides analyses, recommendations, and other assistance to help Congress make informed oversight, policy, and funding decisions. GAO's commitment to good government is reflected in its core values of accountability, integrity, and reliability. = Connect with GAO on X, LinkedIn, Instagram, and YouTube. Subscribe to our Email Updates. Listen to our Podcasts. Visit GAO on the web at https://www.gao.gov.. To Report Fraud, Waste, and Abuse in Federal Programs, The Government Accountability Office, the audit, evaluation, and investigative arm of Congress, exists to support Congress in meeting its constitutional responsibilities and to help improve the performance and accountability of the federal government for the American people. GAO examines the use of public funds; evaluates federal programs and policies; and provides analyses, recommendations, and other assistance to help Congress make informed oversight, policy, and funding decisions. GAO's commitment to good government is reflected in its core values of accountability, integrity, and reliability. = Contact FraudNet: Website: https://www.gao.gov/about/what-gao-does/fraudnet Automated answering system: (800) 424-5454. Media Relations, The Government Accountability Office, the audit, evaluation, and investigative arm of Congress, exists to support Congress in meeting its constitutional responsibilities and to help improve the performance and accountability of the federal government for the American people. GAO examines the use of public funds; evaluates federal programs and policies; and provides analyses, recommendations, and other assistance to help Congress make informed oversight, policy, and funding decisions. GAO's commitment to good government is reflected in its core values of accountability, integrity, and reliability. = Sarah Kaczmarek, Managing Director, Media@gao.gov. Congressional Relations, The Government Accountability Office, the audit, evaluation, and investigative arm of Congress, exists to support Congress in meeting its constitutional responsibilities and to help improve the performance and accountability of the federal government for the American people. GAO examines the use of public funds; evaluates federal programs and policies; and provides analyses, recommendations, and other assistance to help Congress make informed oversight, policy, and funding decisions. GAO's commitment to good government is reflected in its core values of accountability, integrity, and reliability. = A. Nicole Clowers, Managing Director, CongRel@gao.gov. General Inquiries, The Government Accountability Office, the audit, evaluation, and investigative arm of Congress, exists to support Congress in meeting its constitutional responsibilities and to help improve the performance and accountability of the federal government for the American people. GAO examines the use of public funds; evaluates federal programs and policies; and provides analyses, recommendations, and other assistance to help Congress make informed oversight, policy, and funding decisions. GAO's commitment to good government is reflected in its core values of accountability, integrity, and reliability. = https://www.gao.gov/about/contact-us",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/262",
+          "parent": {
+            "cref": "#/texts/261"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/263",
+          "parent": {
+            "cref": "#/texts/261"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/264",
+          "parent": {
+            "cref": "#/texts/261"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/texts/265",
+          "parent": {
+            "cref": "#/texts/261"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "text",
+          "prov": []
+        },
+        {
+          "self_ref": "#/tables/10",
+          "parent": {
+            "cref": "#/texts/261"
+          },
+          "children": [],
+          "content_layer": "body",
+          "label": "table",
+          "prov": []
+        }
+      ],
+      "headings": [
+        "Appendix III: GAO Contact and Staff Acknowledgments Appendix III: GAO Contact and Staff Acknowledgments"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 123679068375993283,
+        "filename": "gao-25-106977.md",
+        "uri": null
+      }
+    }
+  }
+]
