@@ -20,7 +20,7 @@ func = get_registry().get("openai").create(name="text-embedding-3-large")
 class ChunkMetadata(LanceModel):
     """Metadata schema for each chunk. Fields must be in alphabetical order."""
     filename: str | None
-    page_numbers: List[int] | None
+    page_numbers: List[int]
     title: str | None
 
 class Chunks(LanceModel):
@@ -86,7 +86,7 @@ def main():
                 "text": chunk_dict.get("text", ""),
                 "metadata": {
                     "filename": origin.get("filename"),
-                    "page_numbers": page_numbers or None,
+                    "page_numbers": page_numbers,
                     "title": headings[0] if headings else None,
                 },
             }
