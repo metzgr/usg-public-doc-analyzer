@@ -6,7 +6,7 @@ from lancedb.embeddings import get_registry
 from lancedb.pydantic import LanceModel, Vector
 from utils.db import connect_lancedb
 
-load_dotenv()
+load_dotenv(override=True)
 
 # --- Configuration ---
 INPUT_DIR = "data/chunked"
