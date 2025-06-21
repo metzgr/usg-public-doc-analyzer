@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```bash
 OPENAI_API_KEY=your_api_key_here
 # Optional: connect to a remote LanceDB instance
-LANCEDB_URI=db://doc-analyzer-94a7s7
+LANCEDB_URI=your_lancedb_uri
 LANCEDB_API_KEY=your_lancedb_api_key
 LANCEDB_REGION=us-east-1
 ```
