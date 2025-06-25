@@ -3,9 +3,11 @@ import lancedb
 from utils.db import connect_lancedb
 from openai import OpenAI
 from dotenv import load_dotenv
+from lancedb.embeddings import get_registry
+import os
 
 # Load environment variables
-load_dotenv()
+load_dotenv(override=True)
 
 # Initialize OpenAI client
 client = OpenAI()
@@ -13,94 +15,92 @@ client = OpenAI()
 
 # Initialize LanceDB connection
 @st.cache_resource
-def init_db():
-    """Initialize database connection.
-
-    Returns:
-        LanceDB table object
-    """
+def init_db_and_func():
+    """Initialize database connection and embedding function."""
     db = connect_lancedb()
-    return db.open_table("docling")
+    func = get_registry().get("openai").create(name="text-embedding-3-large")
+    table = db.open_table("docling")
+    return table, func
 
 
-def get_context(query: str, table, num_results: int = 5) -> str:
-    """Search the database for relevant context.
+def get_context(query: str, table, func, num_results: int = 5) -> str:
+    """Search the database for relevant context and format it for citation.
 
     Args:
         query: User's question
         table: LanceDB table object
+        func: Embedding function
         num_results: Number of results to return
 
     Returns:
-        str: Concatenated context from relevant chunks with source information
+        str: A formatted string of documents with sources for the LLM.
     """
-    results = table.search(query).limit(num_results).to_pandas()
+    query_vector = func.generate_embeddings([query])[0]
+    results = table.search(query_vector).limit(num_results).to_pandas()
+    
     contexts = []
+    for i, row in results.iterrows():
+        metadata = row.get('metadata', {})
+        report_reference = metadata.get('filename', 'Unknown Report')
+        section_title = metadata.get('title')
+        page_numbers = metadata.get('page_numbers', [])
 
-    for _, row in results.iterrows():
-        # Extract metadata
-        filename = row["metadata"]["filename"]
-        page_numbers = row["metadata"]["page_numbers"]
-        title = row["metadata"]["title"]
+        # Clean up the report reference for better display
+        if report_reference != 'Unknown Report':
+            report_reference = os.path.splitext(report_reference)[0].replace('-', ' ').replace('_', ' ')
 
-        # Build source citation
-        source_parts = []
-        if filename:
-            source_parts.append(filename)
-        if page_numbers:
-            source_parts.append(f"p. {', '.join(str(p) for p in page_numbers)}")
+        source_parts = [report_reference]
+        if section_title:
+            source_parts.append(section_title)
+        
+        if len(page_numbers) > 0:
+            page_numbers_str = f"Page(s): {', '.join(map(str, page_numbers))}"
+            source_parts.append(page_numbers_str)
 
-        source = f"\nSource: {' - '.join(source_parts)}"
-        if title:
-            source += f"\nTitle: {title}"
+        source_identifier = ", ".join(source_parts)
 
-        contexts.append(f"{row['text']}{source}")
+        context_str = f"Source: {source_identifier}\n"
+        context_str += f"Content: {row['text']}"
+        contexts.append(context_str)
 
-    return "\n\n".join(contexts)
+    return "\n\n---\n\n".join(contexts)
 
 
-def get_chat_response(messages, context: str) -> str:
+def get_llm_response(prompt: str, context: str, system_prompt: str = "") -> str:
     """Get streaming response from OpenAI API.
 
     Args:
-        messages: Chat history
+        prompt: User's question
         context: Retrieved context from database
+        system_prompt: System prompt for the LLM
 
     Returns:
         str: Model's response
     """
-    system_prompt = f"""You are a helpful assistant that answers questions based on the provided context.
-    Use only the information from the context to answer questions. If you're unsure or the context
-    doesn't contain the relevant information, say so.
+    messages = []
+    if system_prompt:
+        messages.append({"role": "system", "content": system_prompt})
     
-    Context:
-    {context}
-    """
+    messages.append({"role": "user", "content": f"{context}\n\nQuestion: {prompt}"})
 
-    messages_with_context = [{"role": "system", "content": system_prompt}, *messages]
-
-    # Create the streaming response
-    stream = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=messages_with_context,
-        temperature=0.7,
-        stream=True,
+    response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=messages,
+        temperature=0,
     )
 
-    # Use Streamlit's built-in streaming capability
-    response = st.write_stream(stream)
     return response
 
 
 # Initialize Streamlit app
-st.title("📚 Document Q&A")
+st.title("📚 USG Chatbot")
 
 # Initialize session state for chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
 # Initialize database connection
-table = init_db()
+table, func = init_db_and_func()
 
 # Display chat messages
 for message in st.session_state.messages:
@@ -118,65 +118,30 @@ if prompt := st.chat_input("Ask a question about the document"):
 
     # Get relevant context
     with st.status("Searching document...", expanded=False) as status:
-        context = get_context(prompt, table)
+        context = get_context(prompt, table, func)
         st.markdown(
             """
             <style>
-            .search-result {
-                margin: 10px 0;
-                padding: 10px;
-                border-radius: 4px;
-                background-color: #f0f2f6;
-            }
-            .search-result summary {
-                cursor: pointer;
-                color: #0f52ba;
-                font-weight: 500;
-            }
-            .search-result summary:hover {
-                color: #1e90ff;
-            }
-            .metadata {
-                font-size: 0.9em;
-                color: #666;
-                font-style: italic;
+            .st-emotion-cache-1c7y2kd {
+                flex-direction: row-reverse;
+                text-align: right;
             }
             </style>
         """,
             unsafe_allow_html=True,
         )
 
-        st.write("Found relevant sections:")
-        for chunk in context.split("\n\n"):
-            # Split into text and metadata parts
-            parts = chunk.split("\n")
-            text = parts[0]
-            metadata = {
-                line.split(": ")[0]: line.split(": ")[1]
-                for line in parts[1:]
-                if ": " in line
-            }
+        status.update(label="Getting response...", state="running", expanded=False)
 
-            source = metadata.get("Source", "Unknown source")
-            title = metadata.get("Title", "Untitled section")
+        # Get LLM response
+        system_prompt = (
+            "You are a helpful assistant. Answer the user's question based on the context provided below. "
+            "The context is a list of documents, each with a 'Source' and 'Content' field. The 'Source' provides the report, section title, and page number. "
+            "For each piece of information you use, you MUST cite the full source from which it came (e.g., 'According to 23 2026 CJ AMS, Federal Seed Program, Page(s): 1, ...')."
+        )
+        response = get_llm_response(prompt, context, system_prompt=system_prompt)
+        st.session_state.messages.append({"role": "assistant", "content": response.choices[0].message.content})
 
-            st.markdown(
-                f"""
-                <div class="search-result">
-                    <details>
-                        <summary>{source}</summary>
-                        <div class="metadata">Section: {title}</div>
-                        <div style="margin-top: 8px;">{text}</div>
-                    </details>
-                </div>
-            """,
-                unsafe_allow_html=True,
-            )
-
-    # Display assistant response first
-    with st.chat_message("assistant"):
-        # Get model response with streaming
-        response = get_chat_response(st.session_state.messages, context)
-
-    # Add assistant response to chat history
-    st.session_state.messages.append({"role": "assistant", "content": response})
+        # Display assistant response
+        with st.chat_message("assistant"):
+            st.markdown(response.choices[0].message.content)
